@@ -205,6 +205,41 @@
                 color: white;
             }
 
+            .tags-divider {
+                width: 1px;
+                height: 1.5rem;
+                background: var(--border);
+                align-self: center;
+                margin: 0 0.25rem;
+            }
+
+            .tag-collapsible {
+                display: none;
+            }
+
+            .tags-list.tags-expanded .tag-collapsible {
+                display: inline-flex;
+            }
+
+            .tags-expand-btn {
+                display: inline-flex;
+                align-items: center;
+                padding: 0.375rem 0.875rem;
+                background: transparent;
+                border: 1px dashed var(--border);
+                border-radius: 20px;
+                font-size: 0.875rem;
+                color: var(--text-light);
+                cursor: pointer;
+                transition: all 0.2s;
+            }
+
+            .tags-expand-btn:hover {
+                border-style: solid;
+                border-color: var(--accent);
+                color: var(--accent);
+            }
+
             .tag .count {
                 margin-left: 0.375rem;
                 font-size: 0.75rem;
@@ -846,17 +881,44 @@
             // Render tags
             function renderTags() {
                 const tags = getAllTags();
-                const existingTags = tagsList.querySelectorAll(".tag");
-                existingTags.forEach((t) => t.remove());
+                tagsList.querySelectorAll(".tag, .tags-divider, .tags-expand-btn").forEach((t) => t.remove());
+                tagsList.classList.remove("tags-expanded");
 
-                tags.forEach(({ name, count }) => {
+                const pinnedNames = ["Frühstück", "Hauptspeise", "Abendbrot"];
+                const pinnedTags = pinnedNames
+                    .map((name) => tags.find((t) => t.name === name))
+                    .filter(Boolean);
+                const restTags = tags.filter((t) => !pinnedNames.includes(t.name));
+
+                const makeTag = ({ name, count }, collapsible = false) => {
                     const tag = document.createElement("span");
-                    tag.className = "tag";
+                    tag.className = "tag" + (collapsible ? " tag-collapsible" : "");
                     tag.dataset.tag = name;
                     tag.innerHTML = `${name}<span class="count">${count}</span>`;
                     tag.addEventListener("click", () => toggleTag(name));
-                    tagsList.appendChild(tag);
-                });
+                    return tag;
+                };
+
+                pinnedTags.forEach((t) => tagsList.appendChild(makeTag(t)));
+
+                if (pinnedTags.length > 0 && restTags.length > 0) {
+                    const divider = document.createElement("span");
+                    divider.className = "tags-divider";
+                    tagsList.appendChild(divider);
+                }
+
+                restTags.forEach((t) => tagsList.appendChild(makeTag(t, true)));
+
+                if (restTags.length > 0) {
+                    const expandBtn = document.createElement("button");
+                    expandBtn.className = "tags-expand-btn";
+                    expandBtn.textContent = `+ ${restTags.length} weitere`;
+                    expandBtn.addEventListener("click", () => {
+                        const expanded = tagsList.classList.toggle("tags-expanded");
+                        expandBtn.textContent = expanded ? "weniger" : `+ ${restTags.length} weitere`;
+                    });
+                    tagsList.appendChild(expandBtn);
+                }
             }
 
             // Extract all unique suitableFor tags with counts
@@ -876,16 +938,43 @@
             function renderSuitableForTags() {
                 const tags = getAllSuitableForTags();
                 suitableList.innerHTML = "";
-                tags.forEach(({ name, count }) => {
+                suitableList.classList.remove("tags-expanded");
+
+                const pinnedNames = ["Adipositas", "Arthrose", "Diabetes", "Gastritis"];
+                const pinnedTags = pinnedNames
+                    .map((name) => tags.find((t) => t.name === name))
+                    .filter(Boolean);
+                const restTags = tags.filter((t) => !pinnedNames.includes(t.name));
+
+                const makeTag = ({ name, count }, collapsible = false) => {
                     const tag = document.createElement("span");
-                    tag.className = "tag tag-suitable";
+                    tag.className = "tag tag-suitable" + (collapsible ? " tag-collapsible" : "");
                     tag.dataset.suitable = name;
                     tag.innerHTML = `${name}<span class="count">${count}</span>`;
-                    tag.addEventListener("click", () =>
-                        toggleSuitableTag(name),
-                    );
-                    suitableList.appendChild(tag);
-                });
+                    tag.addEventListener("click", () => toggleSuitableTag(name));
+                    return tag;
+                };
+
+                pinnedTags.forEach((t) => suitableList.appendChild(makeTag(t)));
+
+                if (pinnedTags.length > 0 && restTags.length > 0) {
+                    const divider = document.createElement("span");
+                    divider.className = "tags-divider";
+                    suitableList.appendChild(divider);
+                }
+
+                restTags.forEach((t) => suitableList.appendChild(makeTag(t, true)));
+
+                if (restTags.length > 0) {
+                    const expandBtn = document.createElement("button");
+                    expandBtn.className = "tags-expand-btn";
+                    expandBtn.textContent = `+ ${restTags.length} weitere`;
+                    expandBtn.addEventListener("click", () => {
+                        const expanded = suitableList.classList.toggle("tags-expanded");
+                        expandBtn.textContent = expanded ? "weniger" : `+ ${restTags.length} weitere`;
+                    });
+                    suitableList.appendChild(expandBtn);
+                }
             }
 
             // Toggle suitableFor tag filter
