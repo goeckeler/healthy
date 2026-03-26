@@ -49,34 +49,48 @@ def extract_tags(html):
                 tags.append(tag)
     return tags
 
+def normalize_suitable(tag):
+    """Normalize a suitableFor tag: truncate at (, , or /, trim, capitalize, apply canonical names."""
+    truncated = re.split(r'[,(\/]', tag)[0].strip()
+    if not truncated:
+        return None
+    capitalized = truncated[0].upper() + truncated[1:]
+
+    if capitalized == 'Colitis Ulcerosa':
+        return 'Colitis ulcerosa'
+    if capitalized == 'Kopfschmerzen':
+        return 'Migräne'
+    if capitalized.startswith('COPD'):
+        return 'COPD'
+    if capitalized.startswith('Fettwechelstörung'):
+        return 'Fettwechselstörung'
+    if capitalized.startswith('Fruktose'):
+        return 'Fruktoseintoleranz'
+    if capitalized.startswith('Histamin'):
+        return 'Histaminintoleranz'
+
+    return capitalized
+
 def extract_suitable_for(html):
     """Extract "Geeignet u. a. bei" tags (suitableFor conditions)."""
     suitable = []
-    # Match the h2 heading followed by a p with links
     pattern = r'<h2[^>]*>Geeignet[^<]*</h2>.*?<p[^>]*>(.*?)</p>'
     match = re.search(pattern, html, re.DOTALL | re.IGNORECASE)
     if match:
-        # Extract text from links and <br> separated items
         content = match.group(1)
-        # First try to extract from <a> tags
         link_pattern = r'<a[^>]*>(.*?)</a>'
         for link_match in re.finditer(link_pattern, content):
             text = link_match.group(1).strip()
-            # Clean up any <br> or other tags inside
             text = re.sub(r'<[^>]+>', '', text)
-            # Strip parenthetical qualifiers so "Adipositas (mit Kräuterquark)" → "Adipositas"
-            text = re.sub(r'\s*\(.*?\)', '', text).strip()
-            if text and text not in suitable:
-                suitable.append(text)
-        # Also get <br> separated items that might not be in links
+            normalized = normalize_suitable(text)
+            if normalized and normalized not in suitable:
+                suitable.append(normalized)
         br_items = re.split(r'<br\s*/?>', content)
         for item in br_items:
-            # Remove any HTML tags
             clean = re.sub(r'<[^>]+>', '', item).strip()
-            clean = re.sub(r'\s*\(.*?\)', '', clean).strip()
-            # Skip empty and very short items, and items already found
-            if clean and len(clean) > 2 and clean not in suitable:
-                suitable.append(clean)
+            normalized = normalize_suitable(clean)
+            if normalized and len(normalized) > 2 and normalized not in suitable:
+                suitable.append(normalized)
     return suitable
 
 def parse_recipe(html, url):

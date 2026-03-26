@@ -299,7 +299,7 @@
       "Parodontitis",
       "Potenzstörung",
       "Rheuma",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Sinusitis",
       "Verstopfung",
       "Wechseljahresbeschwerden",
@@ -439,8 +439,7 @@
       "Sinusitis",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "PCO-Syndrom",
-      "Sinusitis, chronische"
+      "PCO-Syndrom"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Auberginen-Tahin-Schnitten,auberginenschnitten100.html?printview=true"
   },
@@ -598,7 +597,7 @@
       "Zöliakie",
       "Bronchitis",
       "Eosinophile Ösophagitis",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Lymphozytärer Kolitis",
       "Magenverkleinerung",
       "Morbus Bechterew",
@@ -1229,7 +1228,7 @@
       "Potenzstörung",
       "Reizmagen",
       "Schuppenflechte",
-      "Histamin-Intoleranz",
+      "Histaminintoleranz",
       "Magenverkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Beeren-Porridge,rezept2324.html?printview=true"
@@ -1311,8 +1310,7 @@
       "Zöliakie",
       "Herpes",
       "Magenverkleinerung",
-      "Nierengesunde Ernährung",
-      "Sodbrennen/ Reflux"
+      "Nierengesunde Ernährung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Beeren-Quinoa-Bowl,rezept5134.html?printview=true"
   },
@@ -1681,7 +1679,7 @@
     "suitableFor": [
       "Adipositas",
       "Bluthochdruck",
-      "Fruktose-Intolerenz",
+      "Fruktoseintoleranz",
       "Metabolischem Syndrom",
       "PCO-Syndrom",
       "Untergewicht",
@@ -2952,7 +2950,7 @@
       "Blasenentzündung",
       "Diabetes",
       "Rheuma",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Brot-aus-Maniokmehl-und-Kochbanane,rezept3048.html?printview=true"
@@ -3586,9 +3584,7 @@
       "Hashimoto",
       "Hämorrhoiden",
       "Morbus Crohn",
-      "Zöliakie",
-      "Morbus Crohn (Remissionsphase. Eventuell Zwiebel weglassen und saure Sahne statt Schmand nehmen. Bei Stenosen Kürbis gegen Brokkoli austauschen.",
-      "Zöliakie."
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Butternut-Cremesuppe,rezept2694.html?printview=true"
   },
@@ -3685,7 +3681,7 @@
       "Diabetes",
       "Fettleber",
       "Fettstoffwechselstörungen",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Metabolisches Syndrom",
       "Morbus Bechterew",
       "Multiple Sklerose",
@@ -4148,7 +4144,7 @@
       "Metabolisches Syndrom",
       "Multiple Sklerose",
       "PCO-Syndrom",
-      "Sodbrennen / Reflux",
+      "Sodbrennen",
       "Wechseljahresbeschwerden",
       "Zöliakie"
     ],
@@ -4500,8 +4496,7 @@
       "PCO-Syndrom",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/klassiker-eier-mit-senfsosse-und-rosenkohl,eiergericht-100.html?printview=true"
   },
@@ -4781,7 +4776,7 @@
       "Divertikulose",
       "Gastroparese",
       "Hämorrhoiden",
-      "Sodbrennen / Reflux",
+      "Sodbrennen",
       "Verstopfung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Erbsensuppe,rezept2610.html?printview=true"
@@ -4905,8 +4900,7 @@
       "PCO-Syndrom",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/erdbeer-shake-mit-hanfsamen,erdbeershake-100.html?printview=true"
   },
@@ -5869,7 +5863,7 @@
       "Divertikulose",
       "Fersensporn",
       "Fettleber",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Gicht",
       "Hashimoto",
       "Herzmuskelverdickung",
@@ -6062,8 +6056,7 @@
       "Metabolischem Syndrom",
       "Multiple Sklerose",
       "Schuppenflechte",
-      "Sodbrennen",
-      "Sodbrennen/ Reflux"
+      "Sodbrennen"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Fruehstuecksquark-mit-Buchweizen-Birne-und-Raspelkarotten,rezept3842.html?printview=true"
   },
@@ -6555,8 +6548,7 @@
       "Rosazea",
       "Schuppenflechte",
       "Sodbrennen",
-      "Verstopfung",
-      "Sodbrennen / Reflux"
+      "Verstopfung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Gedaempftes-Erbsenpueree-mit-Kuerbis,erbsenpueree114.html?printview=true"
   },
@@ -6622,8 +6614,7 @@
       "Sodbrennen",
       "Verstopfung",
       "Zöliakie",
-      "Darmkrebs-Nachsorge",
-      "Sodbrennen / Reflux"
+      "Darmkrebs-Nachsorge"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Gedaempftes-Gemuese-mit-Buchweizen-und-Dip,rezept5228.html?printview=true"
   },
@@ -6673,8 +6664,7 @@
       "Schuppenflechte",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/gedaempftes-gemuese-mit-kartoffeln-und-gruener-sosse,gedaempftesgemuese-102.html?printview=true"
   },
@@ -7159,7 +7149,7 @@
       "Metabolischem Syndrom",
       "Multiple Sklerose",
       "PCO-Syndrom",
-      "Sodbrennen / Reflux"
+      "Sodbrennen"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Gefuellte-Champignons-mit-Raeuchertofu,rezept2778.html?printview=true"
   },
@@ -7479,7 +7469,7 @@
       "Divertikulose",
       "Fettleber",
       "Fettstoffwechselstörung",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Hashimoto",
       "Herzschwäche",
       "Long Covid",
@@ -7488,7 +7478,7 @@
       "Nasenpolypen",
       "PCO-Syndrom",
       "Rheuma",
-      "Sinusitis, chronische",
+      "Sinusitis",
       "Wechseljahresbeschwerden",
       "Zöliakie"
     ],
@@ -7884,7 +7874,7 @@
       "Colitis ulcerosa",
       "Divertikulose",
       "Morbus Crohn",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Reizmagen",
       "Untergewicht",
       "Verstopfung",
@@ -8364,8 +8354,7 @@
       "Sodbrennen",
       "Reizdarm",
       "Zöliakie",
-      "Multi-Intoleranzen",
-      "Sodbrennen/ Reflux"
+      "Multi-Intoleranzen"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesebratlinge-mit-Joghurt-Dip,rezept5186.html?printview=true"
   },
@@ -8412,7 +8401,7 @@
       "Divertikulose",
       "Diabetes",
       "Fettleber",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Metabolisches Syndrom",
       "Morbus Crohn",
       "Multiple Sklerose",
@@ -9039,7 +9028,7 @@
       "Fersensporn",
       "Fettleber",
       "Fettstoffwechselstörung",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Fußpilz",
       "Herzmuskelverdickung",
       "Metabolisches Syndrom",
@@ -10003,7 +9992,7 @@
       "Bluthochdruck",
       "Dünndarm-Fehlbesiedlung",
       "Fettleber",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Gicht",
       "Metabolisches Syndrom",
       "Potenzstörung",
@@ -10076,7 +10065,7 @@
       "Fettstoffwechselstörung",
       "Metabolisches Syndrom",
       "Reizmagen",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Wechseljahresbeschwerden"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/gyros-mit-tzatziki-und-ofen-karotten,gyros-100.html?printview=true"
@@ -10548,9 +10537,8 @@
       "Kekse"
     ],
     "suitableFor": [
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Untergewicht",
-      "Fruktose-Intoleranz nach der Auslassphase",
       "Lymphozytärer Kolitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Haferkekse,rezept2132.html?printview=true"
@@ -10789,8 +10777,7 @@
       "Metabolisches Syndrom",
       "Multiple Sklerose",
       "PCO-Syndrom",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/hahnchen-gemuese-pfanne-mit-rosmarin,haehnchenpfanne-100.html?printview=true"
   },
@@ -11062,7 +11049,7 @@
       "Parodontitis",
       "PCO-Syndrom",
       "Restless-Legs-Syndrom",
-      "Sinusitis, chronische",
+      "Sinusitis",
       "Darmkrebs-Nachsorge"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Himbeer-Eiweiss-Shake-mit-Hanfsamen,rezept5154.html?printview=true"
@@ -11492,7 +11479,7 @@
       "COPD",
       "Endometriose",
       "Fettstoffwechselstörung",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Gastritis",
       "Hashimoto",
       "Hämorrhoiden",
@@ -11502,10 +11489,10 @@
       "Nasenpolypen",
       "PCO-Syndrom",
       "Schuppenflechte",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Wechseljahresbeschwerden",
       "Colitis indeterminata",
-      "Histamin-Intoleranz"
+      "Histaminintoleranz"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Haehnchen-mit-Pasta-und-Brokkoli,rezept3848.html?printview=true"
   },
@@ -11722,7 +11709,7 @@
       "Fersensporn",
       "Fettleber",
       "Fettstoffwechselstörung",
-      "Histamin-Intoleranz",
+      "Histaminintoleranz",
       "Morbus Crohn",
       "Parodontitis",
       "Reizmagen",
@@ -11772,7 +11759,7 @@
       "Adipositas",
       "Diabetes",
       "Fersensporn",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Metabolisches Syndrom",
       "Potenzstörung",
       "Sinusitis",
@@ -12321,7 +12308,7 @@
       "Depression",
       "Diabetes",
       "Fettstoffwechselstörung",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Herzschwäche",
       "Migräne",
       "Mastzellaktivierungssyndrom",
@@ -12333,7 +12320,6 @@
       "Colitis indeterminata",
       "Darmkrebs-Nachsorge",
       "Histaminintoleranz",
-      "Kopfschmerzen / Migräne",
       "Lymphozytäre Kolitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Joghurt-mit-Kokosflocken,rezept5164.html?printview=true"
@@ -12558,8 +12544,7 @@
       "Metabolisches Syndrom",
       "Rheuma",
       "Rosazea",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/kabeljau-paeckchen-mit-buntem-pfannengemuese,kabeljaupaeckchen-100.html?printview=true"
   },
@@ -12589,7 +12574,7 @@
     ],
     "suitableFor": [
       "Brustkrebs-Nachsorge",
-      "COPD mit Untergewicht",
+      "COPD",
       "Diabetes",
       "Fettleber",
       "Hämorrhoiden",
@@ -14186,8 +14171,7 @@
       "PCO",
       "Sodbrennen",
       "Zöliakie",
-      "Magen-Bypass",
-      "Migräne/Kopfschmerzen"
+      "Magen-Bypass"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Kokospralinen,rezept2874.html?printview=true"
   },
@@ -14292,7 +14276,7 @@
       "Divertikulose",
       "Diabetes",
       "Fettleber",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Metabolisches Syndrom",
       "Morbus Crohn",
       "Multiple Sklerose",
@@ -14659,7 +14643,7 @@
       "Verstopfung",
       "Wechseljahresbeschwerden",
       "Zöliakie",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Magen-Verkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Kuerbiskuchen,rezept2304.html?printview=true"
@@ -14801,7 +14785,7 @@
       "Untergewicht",
       "Wechseljahresbeschwerden",
       "Brustkrebs-Nachsorge",
-      "Histamin-Intoleranz",
+      "Histaminintoleranz",
       "Nierengesunde Ernährung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Kuerbissuppe-mit-Ingwer,rezept5658.html?printview=true"
@@ -14891,7 +14875,7 @@
       "Sinusitis",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "chronische Sinusitis"
+      "Chronische Sinusitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Lachs-mit-Knusper-Rosenkohl,lachs808.html?printview=true"
   },
@@ -15460,7 +15444,7 @@
       "Colitis ulcerosa",
       "Diabetes",
       "Divertikulose",
-      "Eosinophile, Ösophagitis",
+      "Eosinophile",
       "Fettleber",
       "Fettstoffwechselstörung",
       "Fibromyalgie",
@@ -15524,7 +15508,6 @@
       "Gastroparese",
       "Reizdarm",
       "Reizmagen",
-      "Blasenentzündung,",
       "Motilitätsstörung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/leichte-moehren-ingwer-suppe,moehrensuppe-106.html?printview=true"
@@ -15926,8 +15909,7 @@
       "PCO-Syndrom",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunder-linsennudelsalat-mit-gemuese-und-rucola,linsennudelsalat-100.html?printview=true"
   },
@@ -16064,7 +16046,7 @@
       "Multiple Sklerose",
       "PCO-Syndrom",
       "Rosazea",
-      "Sodbrennen / Reflux",
+      "Sodbrennen",
       "Wechseljahresbeschwerden",
       "Zöliakie"
     ],
@@ -17009,7 +16991,7 @@
       "Metabolisches Syndrom",
       "Multiple Sklerose",
       "PCO-Syndrom",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Mediterranes-Ofengemuse-mit-Halloumi-Kase,rezept4548.html?printview=true"
@@ -17443,14 +17425,14 @@
       "Bluthochdruck",
       "Diabetes",
       "Fettleber",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Fußpilz",
       "Hashimoto",
       "Migräne",
       "Parodontitis",
       "Rosazea",
       "Wechseljahresbeschwerden",
-      "Histamin-Intoleranz"
+      "Histaminintoleranz"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Moehren-Eiweiss-Brot-Low-Carb,rezept5702.html?printview=true"
   },
@@ -18264,7 +18246,7 @@
       "Metabolisches Syndrom",
       "PCO-Syndrom",
       "Rheuma",
-      "Sodbrennen / Reflux",
+      "Sodbrennen",
       "Verstopfung",
       "Darmkrebs-Nachsorge",
       "Lymphozytäre Kolitis"
@@ -18566,8 +18548,7 @@
       "Rheuma",
       "Schuppenflechte",
       "Verstopfung",
-      "Zöliakie",
-      "Zöliakie (auf Glutenfrei-Kennzeichnung industrieller Zutaten achten"
+      "Zöliakie"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/ofengemuese-mit-spargel-und-brokkoli,ofengemuese-108.html?printview=true"
   },
@@ -19849,7 +19830,7 @@
     ],
     "suitableFor": [
       "COPD",
-      "Colitis Ulcerosa",
+      "Colitis ulcerosa",
       "Divertikulose",
       "Morbus Bechterew",
       "Reizmagen",
@@ -19858,7 +19839,6 @@
       "Speiseröhrenkrebs",
       "Untergewicht",
       "Wechseljahresbeschwerden",
-      "COPD mit Untergewicht",
       "Speiseröhrenkrebs-Nachsorge"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Powerbooster-Shake-mit-Bananen-und-Kokosmilch,powerbooster100.html?printview=true"
@@ -19958,7 +19938,7 @@
       "Hashimoto",
       "Parodontitis",
       "PCO-Syndrom",
-      "Sodbrennen / Reflux",
+      "Sodbrennen",
       "Zöliakie",
       "Herpes",
       "Lymphozytäre Kolitis",
@@ -20252,7 +20232,7 @@
       "Multiple Sklerose",
       "Restless-Legs-Syndrom",
       "Rheuma",
-      "Schuppenflechte/Psoriasis",
+      "Schuppenflechte",
       "Sodbrennen",
       "Wechseljahresbeschwerden",
       "Zöliakie",
@@ -20631,8 +20611,7 @@
       "Multi-Intoleranzen",
       "Sodbrennen",
       "Reizdarmsyndrom",
-      "Verstopfung",
-      "Sodbrennen/Reflux"
+      "Verstopfung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Fruehstuecksbrei-mit-Erdbeeren,rezept2220.html?printview=true"
   },
@@ -20677,10 +20656,10 @@
       "Neurodermitis",
       "Nierensteinen",
       "Potenzstörung",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Sinusitis",
       "Bronchitis",
-      "intensivem Sport"
+      "Intensivem Sport"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Hafer-Muesli,rezept2336.html?printview=true"
   },
@@ -26226,7 +26205,7 @@
       "Reizdarmsyndrom",
       "Untergewicht",
       "Zöliakie",
-      "Bronchitis, chronische",
+      "Bronchitis",
       "Eosinophile Ösophagitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Veganer-Buchweizenkuchen,buchweizenkuchen100.html?printview=true"
@@ -27277,8 +27256,8 @@
       "Herzschwäche",
       "Metabolisches Syndrom",
       "Morbus Crohn",
-      "Kopfschmerzen / Migräne",
-      "Sodbrennen / Reflux",
+      "Migräne",
+      "Sodbrennen",
       "Zöliakie",
       "Brustkrebs-Nachsorge",
       "Darmkrebs-Nachsorge",
@@ -27668,7 +27647,7 @@
       "Diabetes",
       "Fettleber",
       "Fettstoffwechselstörungen",
-      "Fruktose-Intoleranz",
+      "Fruktoseintoleranz",
       "Gicht",
       "Rheuma",
       "Schuppenflechte",
@@ -28477,7 +28456,7 @@
       "Herzschwäche",
       "Morbus Crohn",
       "Nierensteine",
-      "Sodbrennen/Reflux",
+      "Sodbrennen",
       "Verstopfung",
       "Nierengesunde Ernährung"
     ],

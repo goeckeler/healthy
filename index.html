@@ -1055,11 +1055,7 @@
 
                     // SuitableFor filter
                     if (activeSuitableTag) {
-                        if (
-                            !(recipe.suitableFor || []).includes(
-                                activeSuitableTag,
-                            )
-                        )
+                        if (!(recipe.suitableFor || []).includes(activeSuitableTag))
                             return false;
                     }
 
