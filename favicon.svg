@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark blue rounded background -->
+  <rect width="32" height="32" rx="6" fill="#0c1754"/>
+
+  <!-- Fork (left): 3 prongs + curved neck + handle -->
+  <line x1="8"  y1="4" x2="8"  y2="11" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="11" y1="4" x2="11" y2="11" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="14" y1="4" x2="14" y2="11" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M8 11 Q11 14 14 11" fill="none" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="11" y1="13" x2="11" y2="28" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- Plate (center ring) -->
+  <circle cx="16" cy="17" r="7.5" fill="none" stroke="white" stroke-width="1.5" opacity="0.45"/>
+
+  <!-- Knife (right): straight blade tapered at top + handle -->
+  <path d="M22 4 Q25.5 7 25.5 12 L22 13 Z" fill="white"/>
+  <line x1="22" y1="13" x2="22" y2="28" stroke="white" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
