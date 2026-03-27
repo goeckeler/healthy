@@ -190,7 +190,7 @@
       "Zöliakie",
       "Bronchitis",
       "Herpes",
-      "Lymphozytärer Kolitis"
+      "Lymphozytäre Kolitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Asia-Gemuese-Suppe-mit-Lachs,rezept3448.html?printview=true"
   },
@@ -291,10 +291,10 @@
       "Gastritis",
       "Gicht",
       "Hämorrhoiden",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "Morbus Bechterew",
       "Morbus Crohn",
-      "Multipler Sklerose",
+      "Multiple Sklerose",
       "Nasenpolypen",
       "Parodontitis",
       "Potenzstörung",
@@ -598,7 +598,7 @@
       "Bronchitis",
       "Eosinophile Ösophagitis",
       "Fruktoseintoleranz",
-      "Lymphozytärer Kolitis",
+      "Lymphozytäre Kolitis",
       "Magenverkleinerung",
       "Morbus Bechterew",
       "Speiseröhrenkrebs-Nachsorge"
@@ -1680,7 +1680,7 @@
       "Adipositas",
       "Bluthochdruck",
       "Fruktoseintoleranz",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "PCO-Syndrom",
       "Untergewicht",
       "Magenverkleinerung"
@@ -3816,14 +3816,14 @@
       "Fettleber",
       "Fettstoffwechselstörung",
       "Hashimoto",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "Multiple Sklerose",
       "Parodontitis",
       "Rosazea",
       "Schuppenflechte",
       "Verstopfung",
       "Darmkrebs-Nachsorge",
-      "Lymphozytärer Kolitis"
+      "Lymphozytäre Kolitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Chia-Mandelpudding,rezept3844.html?printview=true"
   },
@@ -5060,7 +5060,7 @@
       "Bluthochdruck",
       "Colitis ulcerosa",
       "Divertikulose",
-      "Dünndarm-Fehlbesiedlung",
+      "Dünndarmfehlbesiedlung",
       "Fettleber",
       "Metabolisches Syndrom",
       "Neurodermitis",
@@ -6053,7 +6053,7 @@
       "Diabetes",
       "Divertikulose",
       "Hämorrhoiden",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "Multiple Sklerose",
       "Schuppenflechte",
       "Sodbrennen"
@@ -6178,7 +6178,7 @@
       "Fettstoffwechselstörung",
       "Hashimoto",
       "Metabolisches Syndrom",
-      "Multipler Sklerose",
+      "Multiple Sklerose",
       "Nierensteine",
       "PCO-Syndrom",
       "Sodbrennen",
@@ -7146,7 +7146,7 @@
       "Fettleber",
       "Hashimoto",
       "Herzschwäche",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "Multiple Sklerose",
       "PCO-Syndrom",
       "Sodbrennen"
@@ -8397,7 +8397,7 @@
       "Adipositas",
       "Aphthen",
       "Arthrose",
-      "Coltis ulcerosa",
+      "Colitis ulcerosa",
       "Divertikulose",
       "Diabetes",
       "Fettleber",
@@ -8820,7 +8820,7 @@
       "Hämorrhoiden",
       "Herzschwäche",
       "Long Covid",
-      "Metabolischem Syndrom",
+      "Metabolisches Syndrom",
       "Restless-Legs-Syndrom",
       "Darmkrebs-Nachsorge",
       "Nierenschwäche"
@@ -9990,7 +9990,7 @@
       "Adipositas",
       "Arthrose",
       "Bluthochdruck",
-      "Dünndarm-Fehlbesiedlung",
+      "Dünndarmfehlbesiedlung",
       "Fettleber",
       "Fruktoseintoleranz",
       "Gicht",
@@ -10539,7 +10539,7 @@
     "suitableFor": [
       "Fruktoseintoleranz",
       "Untergewicht",
-      "Lymphozytärer Kolitis"
+      "Lymphozytäre Kolitis"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Haferkekse,rezept2132.html?printview=true"
   },
@@ -12224,7 +12224,7 @@
       "Wechseljahresbeschwerden",
       "Zöliakie",
       "Lymphozytäre Kolitis",
-      "Magen-Verkleinerung"
+      "Magenverkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Italienischer-Quarkaufstrich,rezept3908.html?printview=true"
   },
@@ -12852,10 +12852,10 @@
       "ADHS",
       "Colitis ulcerosa",
       "Divertikulose",
-      "Dünndarm-Fehlbesiedlung",
+      "Dünndarmfehlbesiedlung",
       "Morbus Crohn",
       "Multiple Sklerose",
-      "Nierensteinen",
+      "Nierensteine",
       "Verstopfung",
       "Sodbrennen",
       "Reizmagen",
@@ -14272,7 +14272,7 @@
     "suitableFor": [
       "Adipositas",
       "Arthrose",
-      "Coltis ulcerosa",
+      "Colitis ulcerosa",
       "Divertikulose",
       "Diabetes",
       "Fettleber",
@@ -14644,7 +14644,7 @@
       "Wechseljahresbeschwerden",
       "Zöliakie",
       "Fruktoseintoleranz",
-      "Magen-Verkleinerung"
+      "Magenverkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Kuerbiskuchen,rezept2304.html?printview=true"
   },
@@ -14769,7 +14769,7 @@
       "COPD",
       "Diabetes",
       "Divertikulose",
-      "Dünndarm-Fehlbesiedlung",
+      "Dünndarmfehlbesiedlung",
       "Fettleber",
       "Fettstoffwechselstörungen",
       "Gicht",
@@ -17300,7 +17300,7 @@
       "Sodbrennen",
       "Wechseljahre",
       "Bronchitis",
-      "Nierengesunder Ernährung"
+      "Nierengesunde Ernährung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Moehren-Apfel-Porridge-mit-Zimt,rezept3074.html?printview=true"
   },
@@ -17693,7 +17693,7 @@
       "Hämorrhoiden",
       "Metabolisches Syndrom",
       "Nasenpolypen",
-      "Potenzstörungen",
+      "Potenzstörung",
       "Verstopfung",
       "Darmkrebs-Nachsorge"
     ],
@@ -19942,7 +19942,7 @@
       "Zöliakie",
       "Herpes",
       "Lymphozytäre Kolitis",
-      "Magen-Verkleinerung"
+      "Magenverkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Protein-Quark-mit-Skyr-und-Nuessen,rezept5190.html?printview=true"
   },
@@ -20103,15 +20103,15 @@
       "Fettleber",
       "Fettstoffwechselstörung",
       "Hashimoto",
-      "Metabolischem Syndrom",
-      "Multipler Sklerose",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
       "PCO-Syndrom",
       "Potenzstörung",
       "Schlaf-Apnoe",
       "Sinusitis",
       "Wechseljahresbeschwerden",
       "Zöliakie",
-      "Lymphozytärer Kolitis",
+      "Lymphozytäre Kolitis",
       "Magenverkleinerung"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Quark-Bowl-mit-Flohsamen,rezept3912.html?printview=true"
@@ -20647,14 +20647,14 @@
     "suitableFor": [
       "Adipositas",
       "Arthrose",
-      "Dünndarm-Fehlbesiedlung",
+      "Dünndarmfehlbesiedlung",
       "Fersensporn",
       "Herzmuskelerkrankung",
       "Herzschwäche",
       "Übergewicht",
       "Metabolisches Syndrom",
       "Neurodermitis",
-      "Nierensteinen",
+      "Nierensteine",
       "Potenzstörung",
       "Sodbrennen",
       "Sinusitis",
@@ -21253,6 +21253,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-Sendungen,sendungen3574.html"
   },
   {
@@ -21268,6 +21269,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-bei-Arthrose,arthrose332.html"
   },
   {
@@ -21283,6 +21285,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-bei-Bluthochdruck,bluthochdruck250.html"
   },
   {
@@ -21298,6 +21301,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-bei-Diabetes,diabetes522.html"
   },
   {
@@ -21313,6 +21317,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-bei-Fettleibigkeit,fettleibigkeit110.html"
   },
   {
@@ -22992,8 +22997,8 @@
       "Fettleber",
       "Fettstoffwechselstörungen",
       "Herzschwäche",
-      "Metabolischem Syndrom",
-      "Multipler Sklerose",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
       "Parodontitis",
       "Potenzstörung",
       "Rheuma",
@@ -26648,6 +26653,7 @@
     "categories": [],
     "nutrition": "",
     "tags": [],
+    "suitableFor": [],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/Kochen-lernen-Die-Online-Video-Kochschule,kochschule102.html"
   },
   {
@@ -27916,7 +27922,6 @@
       "Fibromyalgie",
       "Verstopfung",
       "Wechseljahresbeschwerden",
-      "Arthrose&nbsp;",
       "Restless-Legs-Syndrom"
     ],
     "pdfUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/zucchini-dinkel-nudeln-mit-linsenbolognese,zucchininudeln-104.html?printview=true"

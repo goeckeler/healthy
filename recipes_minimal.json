@@ -14,6 +14,16 @@
       "Desserts",
       "Fingerfood"
     ],
+    "suitableFor": [
+      "Akne",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Migräne",
+      "Multiple Sklerose",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": null
   },
   {
@@ -37,6 +47,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "99 kcal, 5 g Eiweiß, 3 g Fett, 10 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -62,6 +73,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 512 kcal, 36 g Kohlenhydrate, 28 g Fett, 30 g Eiweiß, 14 g Ballaststoffe"
   },
   {
@@ -89,6 +101,25 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Nierensteine",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Zöliakie",
+      "Bronchitis",
+      "Herpes",
+      "Lymphozytäre Kolitis"
+    ],
     "nutrition": "circa 340 kcal, 19 g Kohlenhydrate, 23 g Fett, 16 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -111,6 +142,16 @@
       "gesund",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Verstopfung"
     ],
     "nutrition": "ca. 238 kcal, 12 g Eiweiß, 11 g Fett, 22 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -135,6 +176,32 @@
       "mediterran",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Gastritis",
+      "Gicht",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "Parodontitis",
+      "Potenzstörung",
+      "Rheuma",
+      "Sodbrennen",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 290 kcal, 16 g Eiweiß, 20 g Fett, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -158,6 +225,18 @@
       "Reis",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Gastritis",
+      "Reizdarm",
+      "Reizmagen",
+      "Rosazea",
+      "Rheuma",
+      "Zöliakie",
+      "Arthrose"
+    ],
     "nutrition": "circa 496 kcal, 10 g Eiweiß, 30 g Fett, 49 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -179,6 +258,7 @@
       "Gemüse",
       "Silvester"
     ],
+    "suitableFor": [],
     "nutrition": "266 kcal, 12 g Eiweiß, 17 g Fett, 28 g Kohlenhydrate, 1,4 BE"
   },
   {
@@ -203,6 +283,17 @@
       "gesund",
       "mediterran",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Diabetes",
+      "Restless-Legs-Syndrom",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "PCO-Syndrom"
     ],
     "nutrition": "circa 400 kcal, 10 g Eiweiß, 23 g Fett, 36 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -233,6 +324,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "260 kcal, 6 g Eiweiß, 20 g Fett, 10 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -249,6 +341,20 @@
     "tags": [
       "gesund",
       "Brotaufstriche/Dips/Soßen"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 195 kcal, 7 g Eiweiß, 16 g Fett, 5 g Kohlenhydrate, 4 g Ballaststoffe"
   },
@@ -269,6 +375,48 @@
       "Brotaufstriche/Dips/Soßen",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Fußpilz",
+      "Gicht",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Multi-Intoleranzen",
+      "Nasenpolypen",
+      "Neurodermitis",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Potenzstörung",
+      "Rheuma",
+      "Rosazea",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Speiseröhrenkrebs",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Bronchitis",
+      "Eosinophile Ösophagitis",
+      "Fruktoseintoleranz",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung",
+      "Morbus Bechterew",
+      "Speiseröhrenkrebs-Nachsorge"
+    ],
     "nutrition": "circa 290 kcal, 7 g Eiweiß, 22 g Fett, 13 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -286,6 +434,7 @@
       "Desserts",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -305,6 +454,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "170 kcal, 5 g Eiweiß, 9 g Fett, 13 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -323,6 +473,24 @@
       "Brotaufstriche/Dips/Soßen",
       "Frühstück",
       "vegan"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Divertikulose",
+      "Diabetes",
+      "COPD",
+      "Fettleber",
+      "Fußpilz",
+      "Gastroparese",
+      "Gicht",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "Neurodermitis",
+      "Parodontitis",
+      "Schuppenflechte",
+      "Sodbrennen",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 298 kcal, 26 g Fett, 12 g Kohlenhydrate, 7 g Eiweiß, 8 g Ballaststoffe"
   },
@@ -347,6 +515,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 420 kcal, 11 g Eiweiß, 34 g Fett, 14 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -368,6 +537,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 391 kcal, 50 g Kohlenhydrate, 12 g Fett, 19 g Eiweiß, 15 g Ballaststoffe"
   },
   {
@@ -389,6 +559,7 @@
       "gesund",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "63 kcal, 3 g Fett, 4 g Kohlenhydrate, 5 g Eiweiß, 4 g Ballaststoffe, 0,4 BE"
   },
   {
@@ -408,6 +579,7 @@
       "Kuchen",
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "186 kcal, 8 g Fett, 23 g Kohlenhydrate, 5 g Eiweiß, 3 g Ballaststoffe, 2 BE"
   },
   {
@@ -426,6 +598,19 @@
       "gesund",
       "Frühstück",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Gastritis",
+      "Gastroparese",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Reizmagen",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 187 kcal, 2 g Fett, 26 g Kohlenhydrate, 15 g Eiweiß, 2 g Ballaststoffe"
   },
@@ -452,6 +637,7 @@
       "Meeresfrüchte",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "249 kcal, 2 g Fett, 30 g Kohlenhydrate, 26 g Eiweiß, 8 g Ballaststoffe, 2,2 BE"
   },
   {
@@ -473,6 +659,7 @@
       "Abendbrot",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "181 kcal, 9 g Eiweiß, 8,9 g Fett, 14,2 g Kohlenhydrate, 1,4 g Ballaststoffe"
   },
   {
@@ -491,6 +678,19 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Fettstoffwechselstörung",
+      "Fettleber",
+      "Hashimoto",
+      "Herzschwäche",
+      "Metabolisches Syndrom"
     ],
     "nutrition": "222 kcal, 17 g Fett, 7 g Kohlenhydrate, 10 g Eiweiß, 7 g Ballaststoffe"
   },
@@ -515,6 +715,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -533,6 +734,19 @@
       "gesund",
       "Getreide",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 291 kcal, 26 g Eiweiß, 10 g Fett, 25 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -553,6 +767,7 @@
       "Desserts",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "circa 460 kcal, 30 g Eiweiß, 18 g Fett, 40 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -574,6 +789,7 @@
       "vegan",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "254 kcal, 13 g Fett, 25 g Kohlenhydrate, 10 g Eiweiß, 8 g Ballaststoffe<br>Die Nährwerte sind für 1 EL Mandeln berechnet. Mit anderen Zutaten verändern sich die Nährwerte geringfügig."
   },
   {
@@ -592,6 +808,25 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Aphthen",
+      "Arthrose",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Endometriose",
+      "Gicht",
+      "Mastzellaktivierungs-Syndrom",
+      "Metabolisches Syndrom",
+      "Migräne",
+      "Morbus Crohn",
+      "Potenzstörung",
+      "Reizmagen",
+      "Schuppenflechte",
+      "Histaminintoleranz",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 480 kcal, 16 g Eiweiß, 32 g Fett, 24 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -614,6 +849,7 @@
       "vegetarisch",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": "451 kcal, 45 g Kohlenhydrate, 18 g Eiweiß, 21 g Fett, 11 g Ballaststoffe, 3,8 BE"
   },
   {
@@ -632,6 +868,21 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Sodbrennen",
+      "Zöliakie",
+      "Herpes",
+      "Magenverkleinerung",
+      "Nierengesunde Ernährung"
     ],
     "nutrition": "circa 307 kcal, 27 g Kohlenhydrate, 15 g Fett, 12 g Eiweiß, 4 g Ballaststoffe"
   },
@@ -652,6 +903,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "113 kcal, 12 g Kohlenhydrate, 5 g Fett, 2 g Eiweiß, 3 g Ballaststoffe, 1 BE"
   },
   {
@@ -670,6 +922,19 @@
       "gesund",
       "Frühstück",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Chronische Sinusitis"
     ],
     "nutrition": "ca. 357 kcal, 15 g Eiweiß, 18 g Fett, 27 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -692,6 +957,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "326 kcal, 9 g Eiweiß, 22 g Fett, 19 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -713,6 +979,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "426 kcal, 33 g Kohlenhydrate, 16 g Eiweiß, 25 g Fett, 9 g Ballaststoffe, 2,7 BE"
   },
   {
@@ -738,6 +1005,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "304 kcal, 10 g Eiweiß, 15 g Fett, 32 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -754,6 +1022,21 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Long Covid",
+      "Neurodermitis",
+      "Nierensteine",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 20 kcal, 0 g Eiweiß, 0 g Fett, 4 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -780,6 +1063,24 @@
       "vegetarisch",
       "Silvester"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Darmkrebs",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gastroparese",
+      "Gicht",
+      "Herzschwäche",
+      "Rosazea",
+      "Sinusitis",
+      "Zöliakie",
+      "Brustkrebs-Nachsorge",
+      "Darmkrebs-Nachsorge",
+      "Nierengesunde Ernährung"
+    ],
     "nutrition": "circa 249 kcal, 15 g Kohlenhydrate, 16 g Fett, 8 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -801,6 +1102,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 180 kcal, 10 g Eiweiß, 9 g Fett, 21 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -821,6 +1123,15 @@
       "Gemüse",
       "Aufläufe",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Fruktoseintoleranz",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Untergewicht",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 311 kcal, 31 g Eiweiß, 13 g Fett, 18 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -845,6 +1156,7 @@
       "schnell",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 463 kcal, 34 g Fett, 10 g Kohlenhydrate, 30 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -868,6 +1180,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 140 kcal, 10 g Fett, 8 g Kohlenhydrate, 5 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -891,6 +1204,22 @@
       "deutsch",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Parodontitis",
+      "Rosazea",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 380 kcal, 18 g Eiweiß, 17 g Fett, 32 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -912,6 +1241,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "480 kcal, 51 g Eiweiß, 23 g Fett, 12 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -933,6 +1263,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 412 kcal, 22 g Kohlenhydrate, 29 g Fett, 15 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -954,6 +1285,20 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Zöliakie",
+      "Arthrose"
+    ],
     "nutrition": "circa 260 kcal, 9 g Eiweiß, 17 g Fett, 13 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -973,6 +1318,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 249 kcal, 8 g Kohlenhydrate, 18 g Fett, 13 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -996,6 +1342,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "239 kcal, 19 g Fett, 11 g Kohlenhydrate, 7 g Eiweiß, 5 g Ballaststoffe, 0,9 BE"
   },
   {
@@ -1018,6 +1365,17 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Gastroparese",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 95 kcal, 4 g Eiweiß, 7 g Fett, 3 g Kohlenhydrate, 2 g Ballaststoffe"
   },
@@ -1042,6 +1400,17 @@
       "Pizza/Flammkuchen",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 580 kcal, 30 g Eiweiß, 27 g Fett, 53 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -1063,6 +1432,18 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 482 kcal, 28 g Eiweiß, 33 g Fett, 18 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -1081,6 +1462,22 @@
       "Gemüse",
       "Fisch",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Zöliakie"
     ],
     "nutrition": "circa 530 kcal, 23 g Eiweiß, 39 g Fett, 20 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -1105,6 +1502,17 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Rheuma",
+      "Schuppenflechte",
+      "Arthrose"
+    ],
     "nutrition": "circa 360 kcal, 11 g Eiweiß, 26 g Fett, 17 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -1126,6 +1534,7 @@
       "Suppen/Eintöpfe",
       "Fisch"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 314 kcal, 39 g Eiweiß, 9 g Fett, 16 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -1149,6 +1558,7 @@
       "Fisch",
       "Hauptspeise"
     ],
+    "suitableFor": [],
     "nutrition": "500 kcal, 39 g Eiweiß, 22 g Fett, 33 g Kohlenhydrate, 9 g Ballaststoffe, 3 BE"
   },
   {
@@ -1168,6 +1578,7 @@
       "Weihnachten",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "150 kcal, 2 g Eiweiß, 3 g Fett, 28 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -1186,6 +1597,18 @@
       "Gemüse",
       "gesund",
       "Reis"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Fettleber",
+      "Hashimoto",
+      "Rheuma",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "ca. 458 kcal, 19 g Eiweiß, 18 g Fett, 56 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -1210,6 +1633,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "185 kcal, 9 g Eiweiß, 12 g Fett, 11 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -1233,6 +1657,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "374 kcal, 24,2 g Eiweiß, 25,8 g Fett, 10,6 g Kohlenhydrate, 5,7 g Ballaststoffe"
   },
   {
@@ -1253,6 +1678,16 @@
       "Aufläufe",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "ADHS",
+      "Adipositas",
+      "Diabetes",
+      "Fettleber",
+      "Gicht",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "PCO-Syndrom"
     ],
     "nutrition": "circa 385 kcal, 26 g Eiweiß, 27 g Fett, 9 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -1275,6 +1710,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "270 kcal, 11 g Eiweiß, 17 g Fett, 16 g Kohlenhydrate, 5 g Ballaststoffe, 199 mg Calcium, 31 mg Purin"
   },
   {
@@ -1296,6 +1732,7 @@
       "gesund",
       "Fisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -1321,6 +1758,18 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Arthrose"
+    ],
     "nutrition": "circa 181 kcal, 8 g Eiweiß, 11 g Fett, 13 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -1344,6 +1793,7 @@
       "vegetarisch",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "320 kcal, 18 g Eiweiß, 15 g Fett, 26 g Kohlehydrate, 6 g Ballaststoffe"
   },
   {
@@ -1371,6 +1821,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "458 kcal, 33 g Fett, 19 g Kohlenhydrate, 22 g Eiweiß, 6 g Ballaststoffe, 1,5 BE"
   },
   {
@@ -1396,6 +1847,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 620 kcal, 34 g Eiweiß, 44 g Fett, 16 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -1416,6 +1868,19 @@
       "gesund",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte"
     ],
     "nutrition": "ca. 280 kcal, 10 g Eiweiß, 22 g Fett, 7 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -1438,6 +1903,14 @@
       "Brot/Brötchen",
       "Abendbrot"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Diabetes",
+      "Rheuma",
+      "Sodbrennen",
+      "Zöliakie"
+    ],
     "nutrition": "circa 78 kcal, 4 g Fett, 7 g Kohlenhydrate, 3 g Eiweiß, 2 g Ballaststoffe, 0,5 BE"
   },
   {
@@ -1458,6 +1931,17 @@
       "Abendbrot",
       "vegetarisch",
       "Eier"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Verstopfung"
     ],
     "nutrition": "circa 520 kcal, 21 g Eiweiß, 26 g Fett, 45 g Kohlenhydrate, 12 g Ballaststoffe"
   },
@@ -1482,6 +1966,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "200 kcal, 10 g Eiweiß, 2 g Fett, 30 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -1505,6 +1990,7 @@
       "Meeresfrüchte",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "circa 411 kcal, 25 g Kohlenhydrate, 15 g Eiweiß, 28 g Fett, 1 g Ballaststoffe"
   },
   {
@@ -1525,6 +2011,15 @@
       "Frühstück",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Bluthochdruck",
+      "Fibromyalgie",
+      "Reizmagen",
+      "Untergewicht",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "ca. 374 kcal, 9 g Eiweiß, 16 g Fett, 47 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -1553,6 +2048,7 @@
       "Getreide",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "340 kcal, 41 g Kohlenhydrate, 6 g Eiweiß, 15 g Fett, 8 g Ballaststoffe"
   },
   {
@@ -1576,6 +2072,7 @@
       "Eier",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 380 kcal, 26 g Eiweiß, 27 g Fett, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -1592,6 +2089,14 @@
     "tags": [
       "Backen",
       "Kuchen"
+    ],
+    "suitableFor": [
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Rosazea",
+      "Zöliakie"
     ],
     "nutrition": "Rote-Bete-Muffins: circa 431 kcal, 14 g Eiweiß, 36 g Fett, 14 g Kohlenhydrate, 6 g Ballaststoffe<br>Zucchini-Muffins: circa 472 kcal, 14 g Eiweiß, 42 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe<br>Möhrenmuffins: circa 470 kcal, 15 g Eiweiß, 41 g Fett, 11 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -1614,6 +2119,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "210 kcal, 7 g Eiweiß, 11 g Fett, 15 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -1639,6 +2145,7 @@
       "schnell",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "177 kcal, 21,5 g Eiweiß, 5,8 g Fett, 9 g Kohlenhydrate, 1,5 g Ballaststoffe"
   },
   {
@@ -1660,6 +2167,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 617 kcal, 25 g Fett, 68 g Kohlenhydrate, 29 g Eiweiß, 12 g Ballaststoffe, 5,7 BE"
   },
   {
@@ -1680,6 +2188,21 @@
       "Salate",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "circa 490 kcal, 14 g Eiweiß, 30 g Fett, 38 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -1710,6 +2233,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "240 kcal, 23 g Fett, 6 g Kohlenhydrate, 3 g Eiweiß, 4 g Ballaststoffe, 0,5 BE"
   },
   {
@@ -1729,6 +2253,7 @@
       "gesund",
       "Brot/Brötchen"
     ],
+    "suitableFor": [],
     "nutrition": "circa 140 kcal, 5 g Eiweiß, 1 g Fett, 24 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -1753,6 +2278,19 @@
       "Abendbrot",
       "Suppen/Eintöpfe",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Gastritis",
+      "Hashimoto",
+      "Hämorrhoiden",
+      "Morbus Crohn",
+      "Zöliakie"
     ],
     "nutrition": "circa 279 kcal, 26 g Fett, 10 g Kohlenhydrate, 3 g Eiweiß, 7 g Ballaststoffe"
   },
@@ -1779,6 +2317,18 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Depression",
+      "Fettstoffwechselstörung",
+      "Hämorrhoiden",
+      "Nierensteine",
+      "Parodontitis",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 295 kcal, 8 g Eiweiß, 11 g Fett, 46 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -1797,6 +2347,25 @@
       "Pilze",
       "gesund",
       "Suppen/Eintöpfe"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Fruktoseintoleranz",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Multiple Sklerose",
+      "Parodontitis",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "circa 113 kcal, 8 g Eiweiß, 5 g Fett, 8 g Kohlenhydrate"
   },
@@ -1819,6 +2388,7 @@
       "Frühstück",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "circa 290 kcal, 8 g Eiweiß, 11 g Fett, 30 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -1838,6 +2408,7 @@
       "Frühstück",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "Mit Dinkel-Beeren-Topping:<br>408 kcal, 12 g Eiweiß, 28 g Fett, 26 g Kohlenhydrate, 14 g Ballaststoffe, 2 BE<br><br>Mit Apfel-Sprossen-Topping:<br>214 kcal, 16 g Fett, 9 g Kohlenhydrate, 8 g Eiweiß, 8 g Ballaststoffe, 0,8 BE"
   },
   {
@@ -1858,6 +2429,26 @@
       "gesund",
       "Frühstück",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Darmkrebs",
+      "Diabetes",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Parodontitis",
+      "Rosazea",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Darmkrebs-Nachsorge",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "ca. 364 kcal, 17 g Eiweiß, 24 g Fett, 19 g Kohlenhydrate, 17 g Ballaststoffe"
   },
@@ -1882,6 +2473,7 @@
       "vegan",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "415 kcal, 14 g Kohlenhydrate, 31 g Fett, 19 g Eiweiß, 17 g Ballaststoffe, 1,2 BE"
   },
   {
@@ -1905,6 +2497,7 @@
       "Gemüse",
       "Silvester"
     ],
+    "suitableFor": [],
     "nutrition": "circa 512 kcal, 65 g Kohlenhydrate, 11 g Fett, 30 g Eiweiß"
   },
   {
@@ -1928,6 +2521,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 420 kcal, 39 g Eiweiß, 15 g Fett, 30 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -1955,6 +2549,7 @@
       "Getreide",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "380 kcal, 36 g Eiweiß, 11 g Fett, 29 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -1980,6 +2575,7 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -2002,6 +2598,16 @@
       "gesund",
       "asiatisch",
       "Fingerfood"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "COPD",
+      "Fibromyalgie",
+      "Morbus Crohn",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 449 kcal, 17 g Fett, 52 g Kohlenhydrate, 20 g Eiweiß, 7 g Ballaststoffe"
   },
@@ -2028,6 +2634,20 @@
       "Suppen/Eintöpfe",
       "Meeresfrüchte"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 470 kcal, 42 g Eiweiß, 22 g Fett, 19 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -2047,6 +2667,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "247 kcal, 18 g Fett, 18 g Kohlenhydrate, 4 g Eiweiß, 9 g Ballaststoffe, BE 1,5"
   },
   {
@@ -2066,6 +2687,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "114 kcal, 4 g Eiweiß, 8 g Fett, 7 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -2088,6 +2710,19 @@
       "vegan",
       "Suppen/Eintöpfe",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "circa 340 kcal, 12 g Fett, 38 g Kohlenhydrate, 19 g Eiweiß, 17 g Ballaststoffe"
   },
@@ -2112,6 +2747,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "497 kcal, 34 g Fett, 33 g Kohlenhydrate, 14 g Eiweiß, 7 g Ballaststoffe, 2,8 BE"
   },
   {
@@ -2131,6 +2767,7 @@
       "gesund",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "192 kcal, 6 g Fett, 28 g Kohlenhydrate, 6 g Eiweiß, 2 g Ballaststoffe"
   },
   {
@@ -2154,6 +2791,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "bei Verwendung von Dinkel-Vollkornnudeln:<br>485 kcal, 26 g Eiweiß 18 g Fett 55 g Kohlenhydrate, 13 g Ballaststoffe<br><br>bei Verwendung von Linsennudeln:<br>494 kcal, 34 g Eiweiß, 18 g Fett, 48 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -2176,6 +2814,20 @@
       "gesund",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 329 kcal, 14 g Eiweiß, 13 g Fett, 39 g Kohlenhydrate, 10 g Ballaststoffe"
   },
@@ -2204,6 +2856,19 @@
       "deutsch",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 504 kcal, 30 g Eiweiß, 30 g Fett, 28 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -2221,6 +2886,7 @@
       "gesund",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "circa 271 kcal, 23 g Kohlenhydrate, 10 g Fett, 21 g Protein, 8 g Ballaststoffe"
   },
   {
@@ -2244,6 +2910,7 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "(pro Scheibe bei 25 Scheiben): 89 kcal, 5 g Fett, 5 g Kohlenhydrate, 6 g Eiweiß, 2 g Ballaststoffe<br><br>(pro Scheibe bei 20 Scheiben): 111 kcal, 7 g Fett, 6 g Kohlenhydrate, 7 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -2263,6 +2930,7 @@
       "schnell",
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "42 kcal, 2 g Fett, 4 g Kohlenhydrate, 1 g Eiweiß, 1 g Ballaststoffe, BE 0,4"
   },
   {
@@ -2282,6 +2950,13 @@
       "Fingerfood",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Verstopfung"
+    ],
     "nutrition": "circa 68 kcal, 1,5 g Eiweiß, 2,5 g Fett, 9 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -2298,6 +2973,14 @@
     "tags": [
       "gesund",
       "Frühstück"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Bronchitis",
+      "Endometriose",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sinusitis"
     ],
     "nutrition": null
   },
@@ -2321,6 +3004,20 @@
       "Suppen/Eintöpfe",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "ca. 312 kcal, 21 g Eiweiß, 8 g Fett, 38 g Kohlenhydrate, 14 g Ballaststoffe"
   },
@@ -2347,6 +3044,18 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Aphthen",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Divertikulose",
+      "Gastroparese",
+      "Hämorrhoiden",
+      "Sodbrennen",
+      "Verstopfung"
+    ],
     "nutrition": "circa 296 kcal, 6 g Fett, 42 g Kohlenhydrate, 17 g Eiweiß, 12 g Ballaststoffe"
   },
   {
@@ -2372,6 +3081,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "298 kcal, 17 g Fett, 24 g Kohlenhydrate, 11 g Eiweiß, 11 g Ballaststoffe"
   },
   {
@@ -2393,6 +3103,7 @@
       "Desserts",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "380 kcal, 22 g Eiweiß, 20 g Fett, 24 g Kohlenhydrate, 4 g Ballaststoffe, 260 mg Calcium, 11 mg Purin"
   },
   {
@@ -2411,6 +3122,20 @@
       "gesund",
       "vegetarisch",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 237 kcal, 15 g Eiweiß, 15 g Fett, 9 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -2435,6 +3160,21 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Rosazea",
+      "Verstopfung"
+    ],
     "nutrition": "circa 475 kcal, 18 g Eiweiß, 24 g Fett, 41 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -2458,6 +3198,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "457 kcal, 15 g Eiweiß, 28 g Fett, 36 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -2476,6 +3217,20 @@
       "gesund",
       "Suppen/Eintöpfe",
       "vegan"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Neurodermitis",
+      "Rheuma",
+      "Schuppenflechte",
+      "Zöliakie"
     ],
     "nutrition": "circa 55 kcal, 1 g Fett, 5 g Kohlenhydrate, 4 g Eiweiß, 3 g Ballaststoffe"
   },
@@ -2497,6 +3252,19 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "COPD",
+      "Gastritis",
+      "Morbus Crohn",
+      "Rheuma",
+      "Rosazea",
+      "Colitis indeterminata"
     ],
     "nutrition": "circa 191 kcal, 5 g Eiweiß, 9 g Fett, 23 g Kohlenhydrate, 8 g Ballaststoffe"
   },
@@ -2521,6 +3289,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "345 kcal, 5 g Eiweiß, 25 g Fett, 25 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -2542,6 +3311,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 219 kcal, 11 g Eiweiß, 4 g Fett, 41 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -2567,6 +3337,19 @@
       "Nudeln",
       "Spinat"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Untergewicht",
+      "Verstopfung"
+    ],
     "nutrition": "ca. 575 kcal, 38 g Eiweiß, 22 g Fett, 54 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -2590,6 +3373,7 @@
       "Lachs",
       "mediterran"
     ],
+    "suitableFor": [],
     "nutrition": "386 kcal, 33 g Eiweiß, 22 g Fett, 15 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -2611,6 +3395,7 @@
       "Fisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 485 kcal, 12 g Kohlenhydrate, 23 g Fett, 56 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -2629,6 +3414,20 @@
       "Gemüse",
       "Fisch",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Verstopfung"
     ],
     "nutrition": "circa 553 kcal, 48 g Eiweiß, 19 g Fett, 45 g Kohlenhydrate, 12 g Ballaststoffe"
   },
@@ -2649,6 +3448,7 @@
       "Fisch",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "479 kcal, 44,3 g Eiweiß, 23,6 g Fett, 20,5 g Kohlenhydrate, 7,3 g Ballaststoffe"
   },
   {
@@ -2670,6 +3470,7 @@
       "gesund",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "485 kcal, 16 g Fett, 55 g Kohlenhydrate, 29 g Eiweiß, 4 g Ballaststoffe, 4,6 BE"
   },
   {
@@ -2692,6 +3493,19 @@
       "Brotaufstriche/Dips/Soßen",
       "Abendbrot",
       "Fingerfood"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Hämorrhoiden",
+      "Multiple Sklerose",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 524 kcal, 22 g Eiweiß, 29 g Fett, 45 g Kohlenhydrate, 16 g Ballaststoffe"
   },
@@ -2718,6 +3532,7 @@
       "Smoothies",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "168 kcal, 8 g Fett, 17 g Kohlenhydrate, 6 g Eiweiß, 6 g Ballaststoffe, 1,4 BE"
   },
   {
@@ -2737,6 +3552,7 @@
       "Frühstück",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "circa 119 kcal, 5 g Fett, 11 g Kohlenhydrate, 6 g Eiweiß, 14 g Ballaststoffe, 0,9 BE<br><br>Mit Kokosmilch (pro Person):<br>312 kcal, 26 g Fett, 11 g KH, 7 g Eiweiß, 14 g Ballaststoffe"
   },
   {
@@ -2755,6 +3571,17 @@
       "gesund",
       "Brotaufstriche/Dips/Soßen",
       "Fingerfood"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "PCO-Syndrom",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "ca. 98 kcal, 4 g Eiweiß, 9 g Fett, 1 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -2777,6 +3604,7 @@
       "vegan",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "254 kcal, 13 g Fett, 30 g Kohlenhydrate, 4 g Eiweiß, 7 g Ballaststoffe, 2,5 BE"
   },
   {
@@ -2802,6 +3630,7 @@
       "vegetarisch",
       "Eier"
     ],
+    "suitableFor": [],
     "nutrition": "330 kcal, 19 g Eiweiß, 16 g Fett, 24 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -2823,6 +3652,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "407 kcal, 16 g Eiweiß, 24 g Fett, 31 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -2846,6 +3676,7 @@
       "vegetarisch",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "466 kcal, 25 g Fett, 43 g Kohlenhydrate, 15 g Eiweiß, 11 g Ballaststoffe, 3,6 BE"
   },
   {
@@ -2865,6 +3696,7 @@
       "Frühstück",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "280 kcal, 40 g Kohlenhydrate, 5 g Fett, 6 g Eiweiß"
   },
   {
@@ -2886,6 +3718,32 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "COPD",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettleber",
+      "Fruktoseintoleranz",
+      "Gicht",
+      "Hashimoto",
+      "Herzmuskelverdickung",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "Potenzstörung",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Wechseljahresbeschwerden",
+      "Eosinophile Ösophagitis",
+      "Magenverkleinerung"
+    ],
     "nutrition": "circa 218 kcal, 8 g Eiweiß, 11 g Fett, 20 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -2905,6 +3763,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "als Frühstück für 1 Person:<br>370 kcal, 23 g Fett, 13 g Kohlenhydrate, 27 g Eiweiß, 6 g Ballaststoffe<br><br>als Aufstrich pro Portion:<br>92 kcal, 6 g Fett, 3 g Kohlenhydrate, 7 g Eiweiß, 1,5 g Ballaststoffe"
   },
   {
@@ -2924,6 +3783,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "circa 366 kcal, 42 g Kohlenhydrate, 14 g Eiweiß, 15 g Fett, 8 g Ballaststoffe"
   },
   {
@@ -2943,6 +3803,7 @@
       "Kuchen",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "407 kcal, 22 g Fett, 33 g Kohlenhydrate, 18 g Eiweiß, 6 g Ballaststoffe<br><br>Bei Austausch der Eier durch Magerquark:<br>301 kcal, 11 g Fett, 34 g Kohlenhydrate, 15 g Eiweiß, 6 g Ballaststoffe)"
   },
   {
@@ -2962,6 +3823,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -2985,6 +3847,18 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Schuppenflechte",
+      "Sodbrennen"
+    ],
     "nutrition": "circa 315 kcal, 47 g Kohlenhydrate, 13 g Eiweiß, 8 g Fett, 9 g Ballaststoffe"
   },
   {
@@ -3006,6 +3880,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "451 kcal, 50 g Kohlenhydrate, 6 g Eiweiß, 25 g Fett, 10 g Ballaststoffe, 2,6 BE"
   },
   {
@@ -3025,6 +3900,7 @@
       "Frühstück",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "224 kcal, 12 g Fett, 22 g Kohlenhydrate, 7 g Eiweiß, 7 g Ballaststoffe, 2 BE"
   },
   {
@@ -3047,6 +3923,33 @@
       "Pilze",
       "gesund",
       "Lachs"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Darmkrebs",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Fersensporn",
+      "Fußpilz",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Nierensteine",
+      "PCO-Syndrom",
+      "Sodbrennen",
+      "Speiseröhrenkrebs",
+      "Sinusitis",
+      "Zöliakie",
+      "Darmkrebs-Nachsorge",
+      "Herpes",
+      "Magen-Bypass",
+      "Speiseröhrenkrebs-Nachsorge"
     ],
     "nutrition": "circa 663 kcal, 60 g Fett, 5 g Kohlenhydrate, 25 g Eiweiß, 3 g Ballaststoffe"
   },
@@ -3071,6 +3974,7 @@
       "gesund",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 554 kcal, 40 g Kohlenhydrate, 28 g Fett, 35 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -3100,6 +4004,7 @@
       "Sommergerichte",
       "Meeresfrüchte"
     ],
+    "suitableFor": [],
     "nutrition": "673 kcal, 11 g Kohlenhydrate, 51 g Fett, 42 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -3125,6 +4030,22 @@
       "Pilze",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Akne",
+      "Arthrose",
+      "Darmkrebs",
+      "Depression",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Fibromyalgie",
+      "Fußpilz",
+      "Nierensteine",
+      "Rheuma",
+      "Rosazea",
+      "Schuppenflechte",
+      "Darmkrebs-Nachsorge",
+      "Eosinophile Ösophagitis"
+    ],
     "nutrition": "ohne Hähnchenbrustfilet: circa 111 kcal, 8 g Eiweiß, 6 g Fett, 6 g Kohlenhydrate, 5 g Ballaststoffe<br><br>mit Hähnchenbrustfilet: circa 261 kcal, 38 g Eiweiß, 9 g Fett, 6 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -3144,6 +4065,7 @@
       "schnell",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 310 kcal, 13 g Eiweiß, 21 g Fett, 14 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -3163,6 +4085,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 270 kcal, 11 g Kohlenhydrate, 11 g Eiweiß, 21 g Fett, 3 g Ballaststoffe"
   },
   {
@@ -3184,6 +4107,7 @@
       "Hauptspeise",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 630 kcal, 29 g Eiweiß, 34 g Fett, 48 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -3203,6 +4127,7 @@
       "gesund",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "339 kcal, 36 g Eiweiß, 7 g Fett, 32 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -3223,6 +4148,16 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Colitis ulcerosa",
+      "Fibromyalgie",
+      "Rosazea",
+      "Schuppenflechte",
+      "Sodbrennen",
+      "Verstopfung"
     ],
     "nutrition": "circa 293 kcal, 14 g Eiweiß, 8 g Fett, 42 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -3245,6 +4180,30 @@
       "gesund",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Darmkrebs",
+      "Divertikulose",
+      "Endometriose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hämorrhoiden",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multi-Intoleranzen",
+      "Reizmagen",
+      "Rheuma",
+      "Reizdarmsyndrom",
+      "Sodbrennen",
+      "Verstopfung",
+      "Zöliakie",
+      "Darmkrebs-Nachsorge"
+    ],
     "nutrition": "circa 570 kcal, 68 g Kohlenhydrate, 21 g Fett, 18 g Eiweiß, 13 g Ballaststoffe"
   },
   {
@@ -3265,6 +4224,17 @@
       "Kartoffeln",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Bluthochdruck",
+      "Depression",
+      "Gicht",
+      "Morbus Bechterew",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 565 kcal, 22 g Eiweiß, 27 g Fett, 50 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -3289,6 +4259,7 @@
       "gesund",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 286 kcal, 34 g Eiweiß, 10 g Fett, 14 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -3312,6 +4283,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "265 kcal, 4 g Kohlenhydrate, 32 g Eiweiß, 13 g Fett, 3 g Ballaststoffe, 0,3 BE"
   },
   {
@@ -3332,6 +4304,21 @@
       "Fisch",
       "gesund",
       "Reis"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gastritis",
+      "Gastroparese",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Motilitätsstörung"
     ],
     "nutrition": "circa 442 kcal, 38 g Eiweiß, 8 g Fett, 54 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -3354,6 +4341,19 @@
       "Fisch",
       "gesund"
     ],
+    "suitableFor": [
+      "Akne",
+      "Arthrose",
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Gastritis",
+      "Gastroparese",
+      "Reizdarm",
+      "Reizmagen",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 264 kcal, 29 g Eiweiß, 9 g Fett, 17 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -3374,6 +4374,15 @@
       "Fisch",
       "gesund",
       "deutsch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "COPD",
+      "Endometriose",
+      "Rheuma",
+      "Sodbrennen",
+      "Schuppenflechte",
+      "Reizmagen"
     ],
     "nutrition": "circa 355 kcal, 32 g Eiweiß, 15 g Fett, 21 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -3396,6 +4405,7 @@
       "gesund",
       "Hauptspeise"
     ],
+    "suitableFor": [],
     "nutrition": "circa 529 kcal, 54 g Kohlenhydrate, 23 g Eiweiß, 24 g Fett, 13 g Ballaststoffe"
   },
   {
@@ -3419,6 +4429,7 @@
       "gesund",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "Mit Süßkartoffeln:<br>665 kcal, 38 g Eiweiß, 39 g Fett, 40 g Kohlenhydrate, 8 g Ballaststoffe<br><br>Mit Kürbis:<br>569 kcal, 38 g Eiweiß, 39 g Fett, 17 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -3439,6 +4450,16 @@
       "Gemüse",
       "Geflügel",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Reizmagen",
+      "Zöliakie"
     ],
     "nutrition": "ca. 391 kcal, 27 g Eiweiß, 26 g Fett, 12 g Kohlenhydrate, 4 g Ballaststoffe"
   },
@@ -3463,6 +4484,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "430 kcal, 22 g Eiweiß, 19 g Fett, 37 g Kohlenhydrate, 10 g Ballaststoffe, 3 BE"
   },
   {
@@ -3484,6 +4506,7 @@
       "Pilze",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "214 kcal, 16 g Fett, 5 g Kohlenhydrate, 12 g Eiweiß, 3 g Ballaststoffe, 0,4 BE"
   },
   {
@@ -3504,6 +4527,18 @@
       "gesund",
       "grillen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Sodbrennen"
     ],
     "nutrition": "circa 347 kcal, 23 g Eiweiß, 27 g Fett, 4 g Kohlenhydrate, 3 g Ballaststoffe"
   },
@@ -3528,6 +4563,7 @@
       "gesund",
       "Rind"
     ],
+    "suitableFor": [],
     "nutrition": "383 kcal, 21,1 g Eiweiß, 18,4 g Fett, 31,7 g Kohlenhydrate, 9,4 g Ballaststoffe"
   },
   {
@@ -3548,6 +4584,19 @@
       "gesund",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "ca. 560 kcal, 20 g Eiweiß, 33 g Fett, 39 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -3572,6 +4621,7 @@
       "Gemüse",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "317 kcal, 53 g Kohlenhydrate, 9 g Eiweiß, 7 g Fett, 8 g Ballaststoffe, 4,4 BE"
   },
   {
@@ -3597,6 +4647,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "307 kcal, 10 g Fett, 28 g Kohlenhydrate, 26 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -3617,6 +4668,16 @@
       "Hack",
       "Aufläufe",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 541 kcal, 34 g Fett, 22 g Kohlenhydrate, 36 g Eiweiß, 8 g Ballaststoffe"
   },
@@ -3641,6 +4702,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "263 kcal, 17 g Eiweiß, 5 g Fett, 38 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -3663,6 +4725,27 @@
       "Tomaten",
       "gesund",
       "mediterran"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fruktoseintoleranz",
+      "Hashimoto",
+      "Herzschwäche",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Sinusitis",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 446 kcal, 9 g Kohlenhydrate, 30 g Fett, 35 g Eiweiß, 4 g Ballaststoffe"
   },
@@ -3689,6 +4772,7 @@
       "Meeresfrüchte",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "350 kcal, 22 g Eiweiß, 25 g Fett, 8 g Kohlenhydrate, 2 g Ballaststoffe, 160 mg Kalium, 63 mg Purin"
   },
   {
@@ -3710,6 +4794,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "504 kcal, 18 g Kohlenhydrate, 31 g Fett, 39 g Eiweiß, 12 g Ballaststoffe"
   },
   {
@@ -3731,6 +4816,7 @@
       "Fisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 630 kcal, 38 g Eiweiß, 49 g Fett, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -3752,6 +4838,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "485 kcal, 23 g Eiweiß, 32 g Fett, 26 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -3779,6 +4866,17 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "COPD",
+      "Diabetes",
+      "Fettstoffwechselstörung",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 360 kcal, 12 g Eiweiß, 26 g Fett, 17 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -3798,6 +4896,7 @@
       "Aufläufe",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 660 kcal, 24 g Eiweiß, 39 g Fett, 47 g Kohlenhydrate,11 g Ballaststoffe"
   },
   {
@@ -3817,6 +4916,7 @@
       "vegan",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "390 kcal, 15 g Eiweiß, 18 g Fett, 42 g Kohlenhydrate, 8 g Ballaststoffe, 229 mg Calcium, 19 mg"
   },
   {
@@ -3840,6 +4940,18 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 510 kcal, 14 g Eiweiß, 33 g Fett, 34 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -3860,6 +4972,17 @@
       "Aufläufe",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Morbus Crohn",
+      "Sodbrennen",
+      "Reizmagen",
+      "Untergewicht",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "ca. 510 kcal, 19 g Eiweiß, 19 g Fett, 59 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -3882,6 +5005,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "324 kcal, 18 g Fett, 18 g Kohlenhydrate, 22 g Eiweiß, 8 g Ballaststoffe, 1,5 BE"
   },
   {
@@ -3905,6 +5029,7 @@
       "gesund",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "280 kcal, 36 g Eiweiß, 9 g Fett, 15 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -3927,6 +5052,28 @@
       "vegetarisch",
       "Gemüse",
       "asiatisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Fußpilz",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "ohne Brot: circa 468 kcal, 36 g Kohlenhydrate, 20 g Eiweiß, 27 g Fett, 11 g Ballaststoffe<br>mit Brot: circa 557 kcal, 53 g Kohlenhydrate, 23 g Eiweiß, 28 g Fett, 15 g Ballaststoffe"
   },
@@ -3951,6 +5098,7 @@
       "Fingerfood",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "144 kcal, 7 g Fett, 12 g Kohlenhydrate, 8 g Eiweiß, 2 g Ballaststoffe, 1 BE"
   },
   {
@@ -3974,6 +5122,7 @@
       "Gemüse",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "473 kcal, 13 g Fett, 51 g Kohlenhydrate, 38 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -3997,6 +5146,18 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Fibromyalgie",
+      "Gicht",
+      "Rheuma",
+      "Untergewicht",
+      "Verstopfung"
+    ],
     "nutrition": "circa 620 kcal, 17 g Eiweiß, 30 g Fett, 60 g Kohlenhydrate, 19 g Ballaststoffe"
   },
   {
@@ -4016,6 +5177,7 @@
       "Salate",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "199 kcal, 7 g Fett, 25 g Eiweiß, 9 g Kohlenhydrate"
   },
   {
@@ -4041,6 +5203,18 @@
       "Sommergerichte",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 560 kcal, 31 g Eiweiß, 26 g Fett, 41 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -4062,6 +5236,7 @@
       "Smoothies",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 115 kcal, 6 g Kohlenhydrate, 8 g Fett, 3 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -4080,6 +5255,25 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Divertikulose",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Sodbrennen",
+      "Reizdarm",
+      "Zöliakie",
+      "Multi-Intoleranzen"
     ],
     "nutrition": "circa 430 kcal, 35 g Kohlenhydrate, 23 g Fett, 18 g Eiweiß, 7 g Ballaststoffe"
   },
@@ -4101,6 +5295,23 @@
       "gesund",
       "Suppen/Eintöpfe",
       "vegan"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Aphthen",
+      "Arthrose",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Diabetes",
+      "Fettleber",
+      "Fruktoseintoleranz",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nierensteine",
+      "Rheuma",
+      "Zöliakie",
+      "Magen-Bypass"
     ],
     "nutrition": "circa 3 kcal, 0,2 g Eiweiß, 0,1 g Fett, 0,4 g Kohlenhydrate, 0 g Ballaststoffe"
   },
@@ -4125,6 +5336,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 373 kcal, 25 g Fett, 28 g Kohlenhydrate, 10 g Eiweiß, 11 g Ballaststoffe"
   },
   {
@@ -4150,6 +5362,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 276 kcal, 4 g Fett, 39 g Kohlenhydrate, 19 g Eiweiß, 16 g Ballaststoffe, 3,25 BE"
   },
   {
@@ -4171,6 +5384,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 400 kcal, 14 g Eiweiß, 26 g Fett, 23 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -4198,6 +5412,7 @@
       "Möhren",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 510 kcal, 12 g Eiweiß, 42 g Fett, 21 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -4221,6 +5436,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "460 kcal, 16 g Eiweiß, 9 g Fett, 69 g Kohlenhydrate, 16 g Ballaststoffe"
   },
   {
@@ -4244,6 +5460,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 660 kcal, 23 g Eiweiß, 34 g Fett, 56 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -4267,6 +5484,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "504 kcal, 35 g Eiweiß, 24 g Fett, 28 g Kohlenhydrate, 18 g Ballaststoffe"
   },
   {
@@ -4287,6 +5505,19 @@
       "Gemüse",
       "Geflügel",
       "gesund"
+    ],
+    "suitableFor": [
+      "Akne",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Depression",
+      "Long Covid",
+      "Morbus Crohn",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Arthrose",
+      "Rosazea"
     ],
     "nutrition": "circa 484 kcal, 36 g Kohlenhydrate, 16 g Fett, 49 g Protein, 12 g Ballaststoffe"
   },
@@ -4310,6 +5541,22 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Darmkrebs",
+      "Diabetes",
+      "Fettleber",
+      "Hämorrhoiden",
+      "Herzschwäche",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Restless-Legs-Syndrom",
+      "Darmkrebs-Nachsorge",
+      "Nierenschwäche"
     ],
     "nutrition": "circa 296 kcal, 14 g Fett, 15 g Kohlenhydrate, 26 g Eiweiß, 7 g Ballaststoffe"
   },
@@ -4336,6 +5583,19 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Depression",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 403 kcal, 16 g Fett, 43 g Kohlenhydrate, 21 g Eiweiß, 13 g Ballaststoffe"
   },
   {
@@ -4354,6 +5614,13 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Gicht",
+      "Hämorrhoiden",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 681 kcal, 35 g Eiweiß, 25 g Fett, 75 g Kohlenhydrate, 15 g Ballaststoffe"
   },
@@ -4382,6 +5649,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "Mit Krabben:<br>320 kcal, 27 g Eiweiß, 17 g Fett, 13 g Kohlenhydrate, 4 g Ballaststoffe, 1BE<br>Ohne Krabben:<br>circa 249 kcal, 10 g Kohlenhydrate, 16 g Fett, 17 g Eiweiß, 3 g Ballaststoffe, 0,9 BE"
   },
   {
@@ -4400,6 +5668,37 @@
       "Gemüse",
       "gesund",
       "Lachs"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fruktoseintoleranz",
+      "Fußpilz",
+      "Herzmuskelverdickung",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Potenzstörung",
+      "Rosazea",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Untergewicht",
+      "Verstopfung",
+      "Bronchitis",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 720 kcal, 20 g Kohlenhydrate, 51 g Eiweiß, 46 g Fett, 12 g Ballaststoffe"
   },
@@ -4422,6 +5721,7 @@
       "Gemüse",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "circa 414 kcal, 21 g Kohlenhydrate, 21 g Fett, 34 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -4445,6 +5745,7 @@
       "grillen",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "Mit Quark:<br>413 kcal, 37 g Eiweiß, 23 g Fett, 12 g Kohlenhydrate, 4 g Ballaststoffe<br><br>Mit Hummus:<br>439 kcal, 16 g Eiweiß, 29 g Fett, 29 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -4468,6 +5769,18 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Diabetes",
+      "Fettleber",
+      "Restless-Legs-Syndrom",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Zöliakie",
+      "Arthrose",
+      "Chronische Sinusitis"
+    ],
     "nutrition": "circa 320 kcal, 9 g Eiweiß, 19 g Fett, 27 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -4487,6 +5800,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "504 kcal, 15 g Eiweiß, 39 g Fett, 44 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -4510,6 +5824,18 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Fibromyalgie",
+      "Hashimoto",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Arthrose"
+    ],
     "nutrition": "ca. 413 kcal, 15 g Eiweiß, 20 g Fett, 44 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -4531,6 +5857,10 @@
       "Pizza/Flammkuchen",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Reizmagen",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 700 kcal, 17 g Eiweiß, 37 g Fett, 73 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -4551,6 +5881,10 @@
       "Backen",
       "gesund",
       "vegan"
+    ],
+    "suitableFor": [
+      "Reizmagen",
+      "Zöliakie"
     ],
     "nutrition": "ca. 102 kcal, 2 g Eiweiß, 1 g Fett, 21 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -4575,6 +5909,13 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Untergewicht",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 472 kcal, 18 g Fett, 58 g Kohlenhydrate, 18 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -4594,6 +5935,7 @@
       "Getränke",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "Ohne Pflanzendrink:<br>238 kcal, 26 g Kohlenhydrate, 10 g Eiweiß, 10 g Fett, 0,1 g Ballaststoffe<br><br>Mit Pflanzendrink (z.B. ungesüßter Reis- oder Mandeldrink):<br>86 kcal, 12 g Kohlenhydrate, 2 g Eiweiß, 3 g Fett, 0,1 g Ballaststoffe"
   },
   {
@@ -4612,6 +5954,18 @@
       "gesund",
       "Getränke",
       "asiatisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Colitis ulcerosa",
+      "Fibromyalgie",
+      "Morbus Crohn",
+      "Schuppenflechte",
+      "Rheuma",
+      "Colitis indeterminata"
     ],
     "nutrition": "circa 191 kcal, 3 g Eiweiß, 8 g Fett, 27 g Kohlenhydrate, 3 g Ballaststoffe"
   },
@@ -4638,6 +5992,29 @@
       "Abendbrot",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Gicht",
+      "Hashimoto",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Parodontitis",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Bronchitis"
+    ],
     "nutrition": "270 kcal, 6 g Eiweiß, 18 g Fett, 16 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -4659,6 +6036,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "246 kcal, 7 g Eiweiß, 17 g Fett, 24 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -4686,6 +6064,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "406 kcal, 6 g Kohlenhydrate, 35 g Fett, 18 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -4703,6 +6082,7 @@
       "gesund",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "circa 284 kcal, 21 g Eiweiß, 14 g Fett, 18 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -4724,6 +6104,7 @@
       "vegan",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "circa 329 kcal, 6 g Eiweiß, 20 g Fett, 28 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -4743,6 +6124,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "337 kcal, 22 g Fett, 27 g Kohlenhydrate, 7 g Eiweiß, 13 g Ballaststoffe"
   },
   {
@@ -4764,6 +6146,7 @@
       "vegan",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "95 kcal, 5 g Fett, 11 g Kohlenhydrate, 1 g Eiweiß, 2 g Ballaststoffe, 1 BE"
   },
   {
@@ -4785,6 +6168,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "Mit Öl:<br>278 kcal, 42 g Kohlenhydrate, 10 g Eiweiß, 6 g Fett, 12 g Ballaststoffe, 3,5 BE<br><br>Ohne Öl:<br>234 kcal, 42 g Kohlenhydrate, 10 g Eiweiß, 1 g Fett, 12 g Ballaststoffe, 3,5 BE"
   },
   {
@@ -4804,6 +6188,7 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "380 kcal, 31 g Kohlenhydrate, 12 g Eiweiß, 22 g Fett, 8 g Ballaststoffe"
   },
   {
@@ -4829,6 +6214,7 @@
       "Getreide",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 490 kcal, 16 g Eiweiß, 24 g Fett, 44 g Kohlenhydrate, 16 g Ballaststoffe"
   },
   {
@@ -4848,6 +6234,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "156 kcal, 14 g Fett, 5 g Kohlenhydrate, 2 g Eiweiß, 5 g Ballaststoffe, 0,5 BE"
   },
   {
@@ -4867,6 +6254,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "74 kcal, 3,7 g Eiweiß, 10,9 g Fett, 39,1 g Kohlenhydrate, 8,4 g Ballaststoffe"
   },
   {
@@ -4885,6 +6273,22 @@
       "Salate",
       "gesund",
       "schnell"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fruktoseintoleranz",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "Potenzstörung",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Zöliakie",
+      "Bronchitis",
+      "Herzmuskelerkrankung"
     ],
     "nutrition": "circa 140 kcal, 2 g Eiweiß , 12 g Fett, 5 g Kohlenhydrate, 2 g Ballaststoffe"
   },
@@ -4908,6 +6312,17 @@
       "Geflügel",
       "gesund",
       "international"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Reizmagen",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "ca. 567 kcal, 41 g Eiweiß, 36 g Fett, 19 g Kohlenhydrate, 8 g Ballaststoffe"
   },
@@ -4934,6 +6349,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "bei Zubereitung mit Kuhmilch:<br>mit Obst: 400 kcal, 16 g Eiweiß, 30 g Kohlenhydrate, 25 g Fett<br>ohne Obst: 374 kcal, 19 g Eiweiß, 19 g Fett, 31 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -4952,6 +6368,19 @@
       "Brot/Brötchen",
       "Backen",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Depression",
+      "Diabetes",
+      "Hämorrhoiden",
+      "Multiple Sklerose",
+      "Neurodermitis",
+      "Restless-Legs-Syndrom",
+      "Rosazea",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Arthrose"
     ],
     "nutrition": "circa 199 kcal, 16 g Kohlenhydrate, 12 g Fett, 8 g Eiweiß, 6 g Ballaststoffe"
   },
@@ -4978,6 +6407,17 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Schuppenflechte",
+      "Verstopfung"
+    ],
     "nutrition": "circa 330 kcal, 12 g Eiweiß, 8 g Fett, 49 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -4998,6 +6438,20 @@
       "Backen",
       "gesund",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 220 kcal, 9 g Eiweiß, 9 g Fett, 23 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -5022,6 +6476,19 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 311 kcal, 11 g Eiweiß, 6 g Fett, 53 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -5041,6 +6508,7 @@
       "gesund",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "310 kcal, 12 g Eiweiß, 5 g Fett, 47 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -5060,6 +6528,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "mit Wasser zubereitet: 302 kcal, 13 g Fett, 35 g Kohlenhydrate, 12 g Eiweiß, 9 g Ballaststoffe, 1,2 BE<br>mit Milch zubereitet: 399 kcal, 18 g Fett, 42 g Kohlenhydrate, 17 g Eiweiß, 9 g Ballaststoffe, 3,5 BE"
   },
   {
@@ -5078,6 +6547,14 @@
       "gesund",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Metabolisches Syndrom",
+      "Nierensteine"
     ],
     "nutrition": "circa 386 kcal, 20 g Fett, 33 g Kohlenhydrate, 17 g Eiweiß, 5 g Ballaststoffe"
   },
@@ -5100,6 +6577,10 @@
       "Fingerfood",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Multiple Sklerose",
+      "Untergewicht"
+    ],
     "nutrition": "circa 180 kcal, 5 g Eiweiß, 9 g Fett, 16 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -5116,6 +6597,13 @@
     "tags": [
       "Backen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Akne",
+      "Arthrose",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht"
     ],
     "nutrition": "circa 115 kcal, 2 g Eiweiß, 7 g Fett, 11 g Kohlenhydrate, 2 g Ballaststoffe"
   },
@@ -5135,6 +6623,11 @@
       "Weihnachten",
       "Backen",
       "Kekse"
+    ],
+    "suitableFor": [
+      "Fruktoseintoleranz",
+      "Untergewicht",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "Pro Keks bei einer Gesamtmenge von 16 Stück:<br>ca. 168 kcal, 4 g Eiweiß, 10 g Fett, 15 g Kohlenhydrate, 2 g Ballaststoffe<br><br>Pro Keks bei einer Gesamtmenge von 24 Stück:<br>ca. 112 kcal, 3 g Eiweiß, 7 g Fett, 10 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -5156,6 +6649,17 @@
       "vegan",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Schuppenflechte"
     ],
     "nutrition": "circa 320 kcal, 12 g Eiweiß, 6 g Fett, 50 g Kohlenhydrate, 8 g Ballaststoffe"
   },
@@ -5180,6 +6684,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "288 kcal, 2 g Kohlenhydrate, 25 g Fett, 15 g Eiweiß, 0,5 g Ballaststoffe"
   },
   {
@@ -5207,6 +6712,7 @@
       "Reis",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 493 kcal, 34 Eiweiß, 15 g Fett, 54 g Kohlenhydrate, 11 g Ballaststoffe, 4,5 BE"
   },
   {
@@ -5234,6 +6740,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "101 kcal, 2 g Eiweiß, 5 g Fett, 11,8 g Kohlenhydrate, 3,6 g Ballaststoffe"
   },
   {
@@ -5254,6 +6761,19 @@
       "Hähnchen",
       "Gemüse",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Zöliakie"
     ],
     "nutrition": "circa 401 kcal, 40 g Eiweiß, 12 g Fett, 31 g Kohlenhydrate, 9 g Ballaststoffe"
   },
@@ -5276,6 +6796,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "5 g Eiweiß, 9 g Kohlenhydrate, 1 g Fett"
   },
   {
@@ -5296,6 +6817,19 @@
       "gesund",
       "Abendbrot",
       "Frühstück"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 395 kcal, 31 g Eiweiß, 20 g Fett, 21 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -5326,6 +6860,25 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Fersensporn",
+      "Fettstoffwechselstörung",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Herpes",
+      "Lymphozytäre Kolitis"
+    ],
     "nutrition": "circa 95 kcal, 6 g Eiweiß, 5 g Fett, 6 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -5349,6 +6902,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 304 kcal, 15 g Eiweiß, 6 g Fett, 48 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -5370,6 +6924,16 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Gastroparese",
+      "Metabolisches Syndrom",
+      "Parodontitis",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 90 kcal, 5 g Fett, 4 g Kohlenhydrate, 4 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -5386,6 +6950,25 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Darmkrebs",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Sinusitis",
+      "Darmkrebs-Nachsorge"
     ],
     "nutrition": "circa 360 kcal, 24 g Kohlenhydrate, 17 g Fett, 25 g Eiweiß, 14 g Ballaststoffe"
   },
@@ -5408,6 +6991,7 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "430 kcal, 14 g Eiweiß, 22 g Fett, 38 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -5433,6 +7017,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -5454,6 +7039,7 @@
       "Desserts",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "245 kcal, 24 g Eiweiß, 8 g Fett, 20 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -5473,6 +7059,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "509 kcal, 60 g Kohlenhydrate, 24 g Fett, 14 g Eiweiß, 7 g Ballaststoffe, 5 BE"
   },
   {
@@ -5493,6 +7080,16 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Dünndarmfehlbesiedlung",
+      "Fruktoseintoleranz",
+      "Gastritis",
+      "Gastroparese",
+      "Gicht",
+      "Motilitätsstörung"
     ],
     "nutrition": "circa 312 kcal, 10 g Eiweiß, 12 g Fett, 38 g Kohlenhydrate, 4,5 g Ballaststoffe"
   },
@@ -5517,6 +7114,7 @@
       "Getreide",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "425 kcal, 15 g Eiweiß, 18 g Fett, 51 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -5536,6 +7134,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "497 kcal, 21 g Fett, 57 g Kohlenhydrate, 18 g Eiweiß, 8 g Ballaststoffe, 4,8 BE"
   },
   {
@@ -5559,6 +7158,7 @@
       "vegetarisch",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "582 kcal, 70 g Kohlenhydrate, 26 g Fett, 16 g Eiweiß, 11 g Ballaststoffe, 5,8 BE"
   },
   {
@@ -5584,6 +7184,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -5603,6 +7204,7 @@
       "gesund",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "397 kcal, 35 g Fett, 14 g Kohlenhydrate, 7 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -5623,6 +7225,29 @@
       "gesund",
       "Nudeln",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "COPD",
+      "Endometriose",
+      "Fettstoffwechselstörung",
+      "Fruktoseintoleranz",
+      "Gastritis",
+      "Hashimoto",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "PCO-Syndrom",
+      "Schuppenflechte",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden",
+      "Colitis indeterminata",
+      "Histaminintoleranz"
     ],
     "nutrition": "circa 444 kcal, 42 g Kohlenhydrate, 48 g Eiweiß, 8 g Fett, 12 g Ballaststoffe"
   },
@@ -5647,6 +7272,7 @@
       "Aufläufe",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 599 kcal, 14 g Kohlenhydrate, 45 g Eiweiß, 40 g Fett, 5 g Ballaststoffe"
   },
   {
@@ -5670,6 +7296,17 @@
       "Hähnchen",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Fettleber",
+      "Morbus Crohn",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden",
+      "Colitis indeterminata"
+    ],
     "nutrition": "circa 377 kcal, 32 g Eiweiß, 23 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -5689,6 +7326,7 @@
       "gesund",
       "mediterran"
     ],
+    "suitableFor": [],
     "nutrition": "circa. 525 kcal, 51 g Kohlenhydrate, 39 g Eiweiß, 18 g Fett, 12 g Ballaststoffe"
   },
   {
@@ -5710,6 +7348,7 @@
       "Hähnchen",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 415 kcal, 43 g Kohlenhydrate, 18 g Eiweiß, 16 g Fett, 5 g Ballaststoffe, 3,5 Broteinheiten"
   },
   {
@@ -5733,6 +7372,22 @@
       "Geflügel",
       "gesund"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Aphthen",
+      "Arthrose",
+      "Bluthochdruck",
+      "Fersensporn",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Histaminintoleranz",
+      "Morbus Crohn",
+      "Parodontitis",
+      "Reizmagen",
+      "Rosazea",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 364 kcal, 21 g Eiweiß, 19 g Fett, 30 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -5753,6 +7408,17 @@
       "Hähnchen",
       "Geflügel",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Fersensporn",
+      "Fruktoseintoleranz",
+      "Metabolisches Syndrom",
+      "Potenzstörung",
+      "Sinusitis",
+      "Bronchitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 331 kcal, 38 g Eiweiß, 16g Fett, 9 g Kohlenhydrate, 2 g Ballaststoffe"
   },
@@ -5777,6 +7443,7 @@
       "schnell",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "circa 310 kcal, 23 g Eiweiß, 15 g Fett, 18 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -5802,6 +7469,7 @@
       "schnell",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "mit Rosinen:<br>circa 424 kcal, 30 g Kohlenhydrate, 17 g Fett, 38 g Eiweiß, 7 g Ballaststoffe<br><br>ohne Rosinen:<br>circa 363 kcal, 16 g Kohlenhydrate, 16 g Fett, 37 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -5819,6 +7487,7 @@
       "gesund",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "415 kcal, 21 g Eiweiß, 17 g Fett, 42 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -5836,6 +7505,7 @@
       "gesund",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "circa 424 kcal, 26 g Kohlenhydrate, 29 g Fett, 14 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -5861,6 +7531,7 @@
       "Eier",
       "Pilze"
     ],
+    "suitableFor": [],
     "nutrition": "circa 540 kcal, 27 g Eiweiß, 29 g Fett, 39 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -5879,6 +7550,16 @@
       "gesund",
       "Frühstück",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "PCO-Syndrom",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 550 kcal, 27 g Eiweiß, 26 g Fett, 45 g Kohlenhydrate, 9 g Ballaststoffe"
   },
@@ -5899,6 +7580,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "140 kcal, 31 g Kohlenhydrate, 0,3 g Fett, 2 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -5918,6 +7600,7 @@
       "Getränke",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "353 kcal, 30 g Kohlenhydrate, 21 g Fett, 11 g Eiweiß, 7 g Ballaststoffe, 2,5 BE"
   },
   {
@@ -5935,6 +7618,7 @@
       "gesund",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "circa 5 kcal, 0 g Eiweiß, 0 g Fett, 1 g Kohlenhydrate, 0 g Ballaststoffe"
   },
   {
@@ -5956,6 +7640,7 @@
       "vegan",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "circa 330 kcal, 9 g Eiweiß, 13 g Fett, 37 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -5975,6 +7660,7 @@
       "Getränke",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -5997,6 +7683,26 @@
       "Abendbrot",
       "mediterran",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Sinusitis",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 120 kcal, 6 g Eiweiß, 8 g Fett, 3 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -6021,6 +7727,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "ohne Dinkelflocken:<br>circa 310 kcal, 11 g Eiweiß, 20 g Fett, 20 g Kohlenhydrate, 8 g Ballaststoffe<br>mit Dinkelflocken:<br>circa 360 kcal, 12 g Eiweiß, 20 g Fett, 27 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -6039,6 +7746,30 @@
       "gesund",
       "Desserts",
       "Frühstück"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Aphthen",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Darmkrebs",
+      "Depression",
+      "Diabetes",
+      "Fettstoffwechselstörung",
+      "Fruktoseintoleranz",
+      "Herzschwäche",
+      "Migräne",
+      "Mastzellaktivierungssyndrom",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Nasenpolypen",
+      "Neurodermitis",
+      "Schuppenflechte",
+      "Colitis indeterminata",
+      "Darmkrebs-Nachsorge",
+      "Histaminintoleranz",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "circa 336 kcal, 30 g Kohlenhydrate, 19 g Fett, 10 g Eiweiß, 5 g Ballaststoffe"
   },
@@ -6059,6 +7790,18 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 526 kcal, 17 g Eiweiß, 33 g Fett, 39 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -6078,6 +7821,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "<strong>mit 250 g Naturjoghurt</strong>: 506 kcal, 20 g Eiweiß, 30 g Fett, 37 g Kohlenhydrate, 7 g Ballaststoffe<br><strong>mit 100 g Skyr</strong>: 414 kcal, 20 g Eiweiß, 25 g Fett, 26 g Kohlenhydrate, 7 g Ballaststoffe<br><strong>mit 150 g Skyr</strong>: 445 kcal, 26 g Eiweiß, 25 g Fett, 28 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -6099,6 +7843,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 460 kcal, 41 g Eiweiß, 22 g Fett, 20 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -6124,6 +7869,7 @@
       "asiatisch",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "circa 520 kcal, 30 g Eiweiß, 28 g Fett, 33 g Kohlenhydrate, 6 g Ballaststoffe, 154 mg Ca, 72 mg Purin"
   },
   {
@@ -6143,6 +7889,20 @@
       "Fisch",
       "gesund"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Rosazea",
+      "Zöliakie"
+    ],
     "nutrition": "circa 370 kcal, 38 g Eiweiß, 18 g Fett, 10 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -6159,6 +7919,19 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Hämorrhoiden",
+      "Morbus Bechterew",
+      "Multiple Sklerose",
+      "Rheuma",
+      "Sinusitis",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 180 kcal, 19 g Fett, 1 g Kohlenhydrate, 1 g Eiweiß, 0 g Ballaststoffe"
   },
@@ -6177,6 +7950,7 @@
       "gesund",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "bei Zubereitung mit fettarmer Milch:<br>117 kcal, 4 g Fett, 11 g Kohlenhydrate, 8 g Eiweiß, 3 g Ballaststoffe, 1 BE<br>bei Zubereitung mit Reis- oder Mandeldrink:<br>103 kcal, 7 g Fett, 5 g Kohlenhydrate, 5 g Eiweiß, 4 g Ballaststoffe, 0,2 BE"
   },
   {
@@ -6196,6 +7970,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "569 kcal, 20 g Eiweiß, 36 g Fett, 38 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -6219,6 +7994,19 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 550 kcal, 28 g Eiweiß, 24 g Fett, 45 g Kohlenhydrate, 16 g Ballaststoffe"
   },
   {
@@ -6239,6 +8027,19 @@
       "Getreide",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Zöliakie",
+      "Arthrose",
+      "Chronische Sinusitis"
     ],
     "nutrition": "ca. 464 kcal, 17 g Eiweiß, 16 g Fett, 62 g Kohlenhydrate, 12 g Ballaststoffe"
   },
@@ -6261,6 +8062,18 @@
       "Kartoffeln",
       "gesund"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gastroparese",
+      "Metabolisches Syndrom",
+      "Zöliakie",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 445 kcal, 27 g Eiweiß, 24 g Fett, 29 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -6281,6 +8094,23 @@
       "Suppen/Eintöpfe",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "ADHS",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Dünndarmfehlbesiedlung",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Nierensteine",
+      "Verstopfung",
+      "Sodbrennen",
+      "Reizmagen",
+      "Reizdarm",
+      "Zöliakie",
+      "Multi-Intoleranzen",
+      "Nierengesunde Ernährung",
+      "Reflux"
     ],
     "nutrition": "circa 360 kcal, 6 g Eîweiß, 18 g Fett, 39 g Kohlehydrate, 5 g Ballaststoffe"
   },
@@ -6311,6 +8141,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "183 kcal, 4,4 g Eiweiß, 10,8 g Fett, 16,6 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -6342,6 +8173,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "273 kcal, 47 g Kohlenhydrate, 6 g Fett, 7 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -6367,6 +8199,7 @@
       "Kartoffeln",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 448 kcal, 53 g Kohlenhydrate, 12 g Fett, 31 g Eiweiß, 11 g Ballaststoffe"
   },
   {
@@ -6390,6 +8223,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 441 kcal, 41 g Kohlenhydrate, 19 g Fett, 24 g Protein, 8 g Ballaststoffe"
   },
   {
@@ -6413,6 +8247,18 @@
       "Kartoffeln",
       "Hauptspeise"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "PCO-Syndrom",
+      "Untergewicht",
+      "Colitis indeterminata"
+    ],
     "nutrition": "circa 446 kcal, 32 g Kohlenhydrate, 19 g Fett, 36 g Protein, 7 g Ballaststoffe"
   },
   {
@@ -6434,6 +8280,7 @@
       "Weihnachten",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "32 kcal, 1 g Fett, 4 g Kohlenhydrate, 1 g Eiweiß, 0,2 g Ballaststoffe"
   },
   {
@@ -6457,6 +8304,7 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -6482,6 +8330,7 @@
       "vegetarisch",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": "17 kcal, 0,3 g Fett, 3 g Kohlenhydrate, 0,4 g Eiweiß, 0,5 g Ballaststoffe"
   },
   {
@@ -6501,6 +8350,7 @@
       "gesund",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 609 kcal, 35 g Kohlenhydrate, 42 g Fett, 22 g Eiweiß, 10 g Ballaststoffe"
   },
   {
@@ -6525,6 +8375,18 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte"
     ],
     "nutrition": "ca. 403 kcal, 11 g Eiweiß, 30 g Fett, 25 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -6551,6 +8413,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "616 kcal, 29 g Fett, 61 g Kohlenhydrate, 29 g Eiweiß, 11 g Ballaststoffe, 4,5 BE"
   },
   {
@@ -6574,6 +8437,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "498 kcal, 60 g Kohlenhydrate, 26 g Eiweiß, 17 g Fett, 24 g Ballaststoffe"
   },
   {
@@ -6597,6 +8461,21 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 451 kcal, 26 g Eiweiß, 18 g Fett, 42 g Kohlenhydrate, 15 g Ballaststoffe"
   },
   {
@@ -6618,6 +8497,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 484 kcal, 33 g Kohlenhydrate, 27 g Fett, 27 g Eiweiß, 12 g Ballaststoffe"
   },
   {
@@ -6635,6 +8515,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "332 kcal, 12 g Fett, 40 g Kohlenhydrate, 16 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -6658,6 +8539,20 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Eosinophile Ösophagitis",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Zöliakie"
+    ],
     "nutrition": "circa 327 kcal, 15 g Fett, 31 g Kohlenhydrate, 14 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -6678,6 +8573,18 @@
       "Salate",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Restless-Legs-Syndrom",
+      "Sinusitis",
+      "Verstopfung",
+      "Zöliakie",
+      "Arthrose",
+      "Chronische Sinusitis"
     ],
     "nutrition": "circa 607 kcal, 22 g Eiweiß, 29 g Fett, 62 g Kohlenhydrate, 12 g Ballaststoffe"
   },
@@ -6700,6 +8607,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "Pro Portion (3 Bratlinge):<br>circa 318 kcal, 18 g Fett, 27 g Kohlenhydrate, 15 g Eiweiß, 12 g Ballaststoffe, 2,1 BE<br><br>Pro Bratling:<br>circa 106 kcal, 6 g Fett, 9 g Kohlenhydrate, 5 g Eiweiß, 4 g Ballaststoffe, 0,7 BE"
   },
   {
@@ -6723,6 +8631,17 @@
       "Salate",
       "gesund"
     ],
+    "suitableFor": [
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Schuppenflechte",
+      "Zöliakie"
+    ],
     "nutrition": "circa 332 kcal, 27 g Eiweiß, 19 g Fett, 12 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -6742,6 +8661,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "268 kcal, 15 g Fett, 24 g Kohlenhydrate, 10 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -6760,6 +8680,10 @@
       "Hähnchen",
       "Gemüse",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Fettleber"
     ],
     "nutrition": "circa 412 kcal, 27 g Fett, 13 g Kohlenhydrate, 30 g Eiweiß, 5 g Ballaststoffe"
   },
@@ -6780,6 +8704,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 280 kcal, 14 g Eiweiß, 5 g Fett, 40 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -6801,6 +8726,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "250 kcal, 11 g Eiweiß, 13 g Fett, 19 g Kohlenhydrate, 6 g Ballaststoffe, 405 mg Calcium, 21 mg Purin"
   },
   {
@@ -6826,6 +8752,7 @@
       "gesund",
       "Rind"
     ],
+    "suitableFor": [],
     "nutrition": "460 kcal,19 g Kohlenhydrate, 42 g Eiweiß, 23 g Fett, 5 g Ballaststoffe"
   },
   {
@@ -6855,6 +8782,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "180 kcal, 4,5 g Eiweiß, 5 g Fett, 26 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -6874,6 +8802,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "277 kcal, 3 g Eiweiß, 22 g Fett, 16 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -6895,6 +8824,7 @@
       "asiatisch",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "429 kcal, 25 g Fett, 11 g Kohlenhydrate, 39 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -6918,6 +8848,7 @@
       "Garnelen",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "290 kcal, 16 g Eiweiß, 18 g Fett, 13 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -6943,6 +8874,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "225 kcal, 16 g Fett, 5 g Kohlenhydrate, 15 g Eiweiß, 1 g Ballaststoffe, 0,5 BE"
   },
   {
@@ -6961,6 +8893,22 @@
       "Fingerfood",
       "gesund",
       "Desserts"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Colitis indeterminata",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Migräne",
+      "Neurodermitis",
+      "Nierensteine",
+      "PCO",
+      "Sodbrennen",
+      "Zöliakie",
+      "Magen-Bypass"
     ],
     "nutrition": null
   },
@@ -6987,6 +8935,7 @@
       "Eier",
       "Ostern"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -7016,6 +8965,21 @@
       "Suppen/Eintöpfe",
       "Rind"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Diabetes",
+      "Fettleber",
+      "Fruktoseintoleranz",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Multiple Sklerose",
+      "Rheuma",
+      "Zöliakie",
+      "Magen-Bypass"
+    ],
     "nutrition": "circa 52 kcal, 6 g Eiweiß, 3 g Fett, 0,5 g Kohlenhydrate, 0 g Ballaststoffe"
   },
   {
@@ -7037,6 +9001,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "434 kcal, 23 g Eiweiß, 10 g KH, 35 g Fett, 4 g Ballaststoffe"
   },
   {
@@ -7064,6 +9029,7 @@
       "deutsch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "320 kcal, 18 g Eiweiß, 24 g Fett, 5 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -7081,6 +9047,17 @@
       "gesund",
       "Brotaufstriche/Dips/Soßen"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 146 kcal, 18 g Eiweiß, 6 g Fett, 6 g Kohlenhydrate, 1 g Ballaststoffe"
   },
   {
@@ -7095,6 +9072,10 @@
     ],
     "tags": [
       "gesund"
+    ],
+    "suitableFor": [
+      "Rheuma",
+      "Schuppenflechte"
     ],
     "nutrition": null
   },
@@ -7119,6 +9100,7 @@
       "Eier",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 270 kcal, 14 g Eiweiß, 19 g Fett, 9 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -7136,6 +9118,7 @@
       "Backen",
       "Kuchen"
     ],
+    "suitableFor": [],
     "nutrition": "217 kcal, 13 g Fett, 17 g Kohlenhydrate, 8 g Eiweiß, 0,5 g Ballaststoffe, 1,4 BE"
   },
   {
@@ -7154,6 +9137,21 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Darmkrebs",
+      "Depression",
+      "Divertikulose",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Zöliakie",
+      "Brustkrebs-Nachsorge",
+      "Darmkrebs-Nachsorge"
     ],
     "nutrition": "circa 217 kcal, 21 g Kohlenhydrate, 6 g Eiweiß, 12 g Fett, 8 g Ballaststoffe"
   },
@@ -7176,6 +9174,7 @@
       "Abendbrot",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -7192,6 +9191,27 @@
     "tags": [
       "Backen",
       "Kuchen"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Divertikulose",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Potenzstörung",
+      "Sinusitis",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Fruktoseintoleranz",
+      "Magenverkleinerung"
     ],
     "nutrition": "262 kcal, 20 g Kohlenhydrate, 8 g Eiweiß, 17 g Fett, 1 g Ballaststoffe"
   },
@@ -7212,6 +9232,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "252 kcal, 12 g Eiweiß , 14 g Fett, 16 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -7233,6 +9254,7 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 350 kcal, 12 g Eiweiß, 20 g Fett, 25 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -7256,6 +9278,33 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Divertikulose",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Gicht",
+      "Hashimoto",
+      "Migräne",
+      "Morbus Bechterew",
+      "Morbus Crohn",
+      "Nasenpolypen",
+      "Nierensteine",
+      "Parodontitis",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Brustkrebs-Nachsorge",
+      "Histaminintoleranz",
+      "Nierengesunde Ernährung"
+    ],
     "nutrition": "circa 220 kcal, 4 g Eiweiß, 14 g Fett, 14 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -7277,6 +9326,7 @@
       "Lachs",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "428 kcal, 32 g Eiweiß, 29 g Fett, 11 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -7297,6 +9347,18 @@
       "Fisch",
       "Lachs",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Sinusitis",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Chronische Sinusitis"
     ],
     "nutrition": "circa 532 kcal, 40 g Eiweiß, 33 g Fett, 18 g Kohlenhydrate, 12 g Ballaststoffe"
   },
@@ -7319,6 +9381,19 @@
       "gesund",
       "Lachs"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 570 kcal, 41 g Eiweiß, 33 g Fett, 23 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -7337,6 +9412,19 @@
       "Fisch",
       "gesund",
       "Lachs"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rheuma"
     ],
     "nutrition": "circa 267 kcal, 26 g Eiweiß, 17 g Fett, 3 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -7361,6 +9449,7 @@
       "gesund",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "circa 579 kcal, 36 g Fett, 9 g Kohlenhydrate, 53 g Eiweiß, 3 g Ballaststoffe, 0,8 BE"
   },
   {
@@ -7380,6 +9469,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "369 kcal, 22 g Fett, 10 g Kohlenhydrate, 32 g Eiweiß, 5 g Ballaststoffe<br>mit Lauch, Paprika und Champignons: 372 kcal, 36 g Eiweiß, 22 g Fett, 6 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -7403,6 +9493,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "Ohne Schmand:<br>373 kcal, 23 g Eiweiß, 27 g Fett, 10 g Kohlenhydrate, 4 g Ballaststoffe<br><br>Mit Schmand:<br>414 kcal, 24 g Eiweiß, 31 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -7424,6 +9515,7 @@
       "gesund",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "circa 740 kcal, 43 g Eiweiß, 44 g Fett, 38 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -7441,6 +9533,7 @@
       "grillen",
       "Fisch"
     ],
+    "suitableFor": [],
     "nutrition": "644 kcal, 53 g Fett, 2 g Kohlenhydrate, 41 g Eiweiß"
   },
   {
@@ -7464,6 +9557,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "390 kcal, 25 g Eiweiß, 10 g Fett, 44 g Kohlenhydrate, 10 g Ballaststoffe, 116 mg Calcium, 22 mg Purin"
   },
   {
@@ -7487,6 +9581,7 @@
       "gesund",
       "Lamm"
     ],
+    "suitableFor": [],
     "nutrition": "370 kcal, 10 g Kohlenhydrate, 33 g Eiweiß, 21 g Fett, 5 g Ballaststoffe"
   },
   {
@@ -7510,6 +9605,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "300 kcal, 11 g Eiweiß, 5 g Fett, 48 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -7533,6 +9629,7 @@
       "Spinat",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 490 kcal, 11 g Eiweiß, 38 g Fett, 21 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -7558,6 +9655,16 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hämorrhoiden",
+      "Restless-Legs-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 510 kcal, 20 g Eiweiß, 33 g Fett, 28 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -7579,6 +9686,7 @@
       "Schwein",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "290 kcal, 10 g Kohlenhydrate, 21 g Eiweiß, 18 g Fett, 5 g Ballaststoffe"
   },
   {
@@ -7601,6 +9709,32 @@
       "Suppen/Eintöpfe",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Divertikulose",
+      "Eosinophile",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Gastroparese",
+      "Gicht",
+      "Gastritis",
+      "Mastzellaktivierungssyndrom",
+      "Metabolisches Syndrom",
+      "Migräne",
+      "Multiple Sklerose",
+      "Nierensteine",
+      "Reizmagen",
+      "Restless-Legs-Syndrom",
+      "Rosazea",
+      "Sodbrennen",
+      "Lymphozytäre Kolitis",
+      "Nierengesunde Ernährung"
     ],
     "nutrition": "circa 87 kcal, 5 g Eiweiß, 5 g Fett, 6 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -7625,6 +9759,18 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Akne",
+      "Blasenentzündung",
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Dünndarmfehlbesiedlung",
+      "Gastritis",
+      "Gastroparese",
+      "Reizdarm",
+      "Reizmagen",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 120 kcal, 2 g Eiweiß, 5 g Fett, 15 g Kohlenhydrate, 4,5 g Ballaststoffe"
   },
   {
@@ -7641,6 +9787,12 @@
     "tags": [
       "Desserts",
       "italienisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Multiple Sklerose",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 155 kcal, 12 g Eiweiß, 4 g Fett, 19 g Kohlenhydrate"
   },
@@ -7661,6 +9813,7 @@
       "gesund",
       "Fingerfood"
     ],
+    "suitableFor": [],
     "nutrition": "circa 36 kcal, 1 g Kohlenhydrate, 3 g Fett, 2 g Eiweiß, 1,5 g Ballaststoffe"
   },
   {
@@ -7680,6 +9833,7 @@
       "Frühstück",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "ohne Obst und Nüsse: 130 kcal, 8 g Fett, 4 g Kohlenhydrate, 10 g Eiweiß, 6 g Ballaststoffe<br>mit 125 g Beerenobst und 30 g Nüssen: 343 kcal, 23 g Fett, 13 g Kohlenhydrate, 20 g Eiweiß, 12 g Ballaststoffe"
   },
   {
@@ -7707,6 +9861,7 @@
       "Gemüse",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "544 kcal, 32 g Kohlenhydrate, 36 g Eiweiß, 30 g Fett, 16 g Ballaststoffe, 2,7 BE"
   },
   {
@@ -7728,6 +9883,7 @@
       "vegetarisch",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "530 kcal, 23 g Eiweiß, 27 g Fett, 43 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -7751,6 +9907,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "40 kcal, 5 g Kohlenhydrate, 2 g Fett, 2 g Eiweiß, 1 g Ballaststoffe, 0,3 BE"
   },
   {
@@ -7774,6 +9931,7 @@
       "Sommergerichte",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "560 kcal, 21 g Eiweiß, 32 g Fett, 41 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -7795,6 +9953,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 477 kcal, 56 g Kohlenhydrate, 19 g Fett, 17 g Protein, 13 g Ballaststoffe"
   },
   {
@@ -7817,6 +9976,21 @@
       "gesund",
       "Nudeln",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 530 kcal, 21 g Eiweiß, 33 g Fett, 34 g Kohlenhydrate, 9 g Ballaststoffe"
   },
@@ -7841,6 +10015,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 460 kcal, 19 g Eiweiß, 19 g Fett, 48 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -7864,6 +10039,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "483 kcal, 30,7 g Eiweiß, 12,9 g Fett, 59,1 g Kohlenhydrate, 24,1 g Ballaststoffe"
   },
   {
@@ -7889,6 +10065,20 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Migräne",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rosazea",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "232 kcal, 15 g Eiweiß, 18 g Fett, 3 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -7910,6 +10100,7 @@
       "Pizza/Flammkuchen",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "575 kcal, 36 g Eiweiß, 44 g Fett, 5 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -7930,6 +10121,17 @@
       "gesund",
       "Brotaufstriche/Dips/Soßen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Dünndarmfehlbesiedlung",
+      "Fruktoseintoleranz",
+      "Gastroparese",
+      "Gicht",
+      "Reizdarm",
+      "Untergewicht",
+      "Motilitätsstörung"
     ],
     "nutrition": "circa 88 kcal, 4 g Eiweiß, 7 g Fett, 1 g Kohlenhydrate, 0 g Ballaststoffe"
   },
@@ -7952,6 +10154,7 @@
       "vegan",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "272 kcal, 10 g Eiweiß, 9 g Fett, 37 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -7977,6 +10180,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "128 kcal, 9 g Eiweiß, 9 g Fett, 4 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -7995,6 +10199,15 @@
       "Desserts",
       "Backen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Gicht",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 322 kcal, 10 g Eiweiß, 23 g Fett, 18 g Kohlenhydrate, 3 g Ballaststoffe"
   },
@@ -8017,6 +10230,7 @@
       "international",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "440 kcal, 18 g Eiweiß, 23 g Fett, 33 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -8033,6 +10247,14 @@
     "tags": [
       "Backen",
       "Desserts"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Migräne",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 340 kcal, 9 g Eiweiß, 21 g Fett, 23 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -8059,6 +10281,7 @@
       "Vorspeise",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "296 kcal, 4 g Eiweiß, 21 g Fett, 15 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -8076,6 +10299,7 @@
       "Backen",
       "Kuchen"
     ],
+    "suitableFor": [],
     "nutrition": "228 kcal, 11 g Eiweiß, 18 g Fett, 5 g Kohlenhydrate, 2 g Ballastststoffe"
   },
   {
@@ -8097,6 +10321,7 @@
       "Hähnchen",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 275 kcal, 4 g Kohlenhydrate, 12 g Fett, 37 g Eiweiß, 1 g Ballaststoffe"
   },
   {
@@ -8120,6 +10345,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "490 kcal, 35 g Eiweiß, 15 g Fett, 50 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -8147,6 +10373,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "61 kcal, 3 g Kohlenhydrate, 1 g Eiweiß, 5 g Fett, 2 g Ballaststoffe, 0,2 BE"
   },
   {
@@ -8168,6 +10395,7 @@
       "Fisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 447 kcal, 14 g Kohlenhydrate, 33 g Fett, 23 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -8197,6 +10425,7 @@
       "mediterran",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 620 kcal, 59 g Kohlenhydrate, 30 g Fett, 22 g Eiweiß, 14 g Ballaststoffe"
   },
   {
@@ -8220,6 +10449,7 @@
       "Gemüse",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "345 kcal, 43 g Kohlenhydrate, 8 g Eiweiß, 15 g Fett, 5 g Ballaststoffe, 3,6 BE"
   },
   {
@@ -8247,6 +10477,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "224 kcal, 10 g Eiweiß, 16 g Fett, 9 g Kohlenhydrate"
   },
   {
@@ -8270,6 +10501,7 @@
       "Pizza/Flammkuchen",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "350 kcal, 16 g Eiweiß, 15 g Fett, 33 g Kohlehydrate, 7 g Ballaststoffe, 3 BE"
   },
   {
@@ -8289,6 +10521,7 @@
       "mediterran",
       "Fisch"
     ],
+    "suitableFor": [],
     "nutrition": "388 kcal, 44 g Eiweiß, 20 g Fett, 5 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -8308,6 +10541,7 @@
       "Aufläufe",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "312 kcal, 10 g Kohlenhydrate, 25 g Fett, 12 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -8333,6 +10567,18 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Fußpilz",
+      "Parodontitis",
+      "Potenzstörung",
+      "Rosazea",
+      "Zöliakie",
+      "Brustkrebs-Nachsorge"
+    ],
     "nutrition": "108 kcal, 8 g Eiweiß, 7 g Fett, 3 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -8356,6 +10602,7 @@
       "mediterran",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "112 kcal, 1 g Kohlenhydrate, 12 g Fett, 0,4 g Eiweiß, 0,4 g Ballaststoffe, 0,1 BE"
   },
   {
@@ -8379,6 +10626,23 @@
       "mediterran",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gastritis",
+      "Gicht",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Sodbrennen",
+      "Zöliakie"
+    ],
     "nutrition": "circa 369 kcal, 22 g Kohlenhydrate, 25 g Fett, 15 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -8400,6 +10664,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "307 kcal, 15 g Fett, 22 g Kohlenhydrate, 20 g Eiweiß, 9 g Ballaststoffe, 2 BE"
   },
   {
@@ -8421,6 +10686,7 @@
       "Nudeln",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 267 kcal, 13 g Fett, 23 g Kohlenhydrate, 14 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -8444,6 +10710,7 @@
       "vegetarisch",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "247 kcal, 12 g Fett, 10 g Kohlenhydrate, 24 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -8465,6 +10732,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "280 kcal, 18 g Eiweiß, 2 g Fett, 39 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -8488,6 +10756,7 @@
       "vegetarisch",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": "circa 370 kcal, 12 g Eiweiß, 13 g Fett, 46 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -8507,6 +10776,7 @@
       "Frühstück",
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "500 kcal, 19 g Eiweiß, 33 g Fett, 25 g Kohlenhydrate, 9 g Ballaststoffe, 2 BE"
   },
   {
@@ -8526,6 +10796,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "401 kcal, 16 g Fett, 56 g Kohlenhydrate, 8 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -8544,6 +10815,21 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Aphthen",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Gicht",
+      "Gastritis",
+      "Morbus Crohn",
+      "Nierensteine",
+      "Sodbrennen",
+      "Wechseljahre",
+      "Bronchitis",
+      "Nierengesunde Ernährung"
     ],
     "nutrition": "circa 460 kcal, 12 g Eiweiß, 21 g Fett, 50 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -8568,6 +10854,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "190 kcal, 5 g Eiweiß, 12 g Fett, 14 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -8587,6 +10874,7 @@
       "Suppen/Eintöpfe",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "331 kcal, 24 g Fett, 24 g Kohlenhydrate, 5 g Eiweiß, 7 g Ballaststoffe, 1,5 BE"
   },
   {
@@ -8612,6 +10900,21 @@
       "Abendbrot",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fruktoseintoleranz",
+      "Fußpilz",
+      "Hashimoto",
+      "Migräne",
+      "Parodontitis",
+      "Rosazea",
+      "Wechseljahresbeschwerden",
+      "Histaminintoleranz"
+    ],
     "nutrition": "circa 180 kcal, 10 g Eiweiß, 12 g Fett, 6 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -8635,6 +10938,7 @@
       "vegetarisch",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "310 kcal, 4 g Eiweiß, 23 g Fett, 19 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -8660,6 +10964,7 @@
       "Möhren",
       "Garnelen"
     ],
+    "suitableFor": [],
     "nutrition": "330 kcal, 29 g Eiweiß, 17 g Fett, 15 g Kohlenhydrate"
   },
   {
@@ -8685,6 +10990,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "circa 218 kcal, 8 g Eiweiß, 16 g Fett, 12 g Kohlenhydrate, 6 g Ballaststoffe, 1 BE"
   },
   {
@@ -8708,6 +11014,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "circa 395 kcal, 17 g Kohlenhydrate, 32 g Fett, 9 g Eiweiß, 11 g Ballaststoffe"
   },
   {
@@ -8727,6 +11034,19 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Verstopfung"
+    ],
     "nutrition": "circa 540 kcal, 21 g Eiweiß, 37 g Fett, 31 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -8745,6 +11065,21 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Darmkrebs",
+      "Endometriose",
+      "Fettstoffwechselstörungen",
+      "Hämorrhoiden",
+      "Metabolisches Syndrom",
+      "Nasenpolypen",
+      "Potenzstörung",
+      "Verstopfung",
+      "Darmkrebs-Nachsorge"
     ],
     "nutrition": "circa 583 kcal, 50 g Kohlenhydrate, 29 g Fett, 29 g Eiweiß, 19 g Ballaststoffe"
   },
@@ -8766,6 +11101,13 @@
       "vegan",
       "Fingerfood",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 209 kcal, 5 g Eiweiß, 15 g Fett, 15 g Kohlenhydrate, 3 g Ballaststoffe"
   },
@@ -8796,6 +11138,7 @@
       "Eier",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "380 kcal, 11 g Eiweiß, 32 g Fett, 10 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -8823,6 +11166,7 @@
       "Reis",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "221 kcal, 20 g Fett, 9 g Kohlenhydrate, 2 g Eiweiß, 2 g Ballaststoffe, 1 BE"
   },
   {
@@ -8846,6 +11190,10 @@
       "Nudeln",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Fettleber"
+    ],
     "nutrition": "circa 542 kcal, 28 g Fett, 39 g Kohlenhydrate, 33 g Eiweiß, 12 g Ballaststoffe<br>"
   },
   {
@@ -8867,6 +11215,7 @@
       "schnell",
       "Nudeln"
     ],
+    "suitableFor": [],
     "nutrition": "374 kcal, 5 g Fett, 63 g Kohlenhydrate, 15 g Eiweiß, 2 g Ballaststoffe"
   },
   {
@@ -8890,6 +11239,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "559 kcal, 14 g Kohlenhydrate, 45 g Fett, 26 g Eiweiß, 5 g Ballaststoffe, 1,1 BE"
   },
   {
@@ -8913,6 +11263,7 @@
       "Kartoffeln",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": "220 kcal, 5 g Fett, 38 g Kohlenhydrate, 5 g Eiweiß, 3 g Ballaststoffe, 3 BE"
   },
   {
@@ -8936,6 +11287,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -8959,6 +11311,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "396 kcal, 48 g Kohlenhydrate, 17 g Eiweiß, 14 g Fett, 11 g Ballaststoffe, 4 BE"
   },
   {
@@ -8986,6 +11339,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "circa 570 kcal, 25 g Fett, 47 g Kohlenhydrate, 40 g Eiweiß, 9 g Ballaststoffe, 3,9 BE"
   },
   {
@@ -9007,6 +11361,20 @@
       "Kartoffeln",
       "gesund"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 519 kcal, 18 g Eiweiß, 31 g Fett, 42 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -9025,6 +11393,24 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Darmkrebs",
+      "Fersensporn",
+      "Hämorrhoiden",
+      "Hashimoto",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Sodbrennen",
+      "Verstopfung",
+      "Darmkrebs-Nachsorge",
+      "Lymphozytäre Kolitis"
     ],
     "nutrition": "ca. 410 kcal, 12 g Eiweiß, 24 g Fett, 33 g Kohlenhydrate, 11 g Ballaststoffe"
   },
@@ -9053,6 +11439,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "190 kcal, 3 g Eiweiß, 19 g Fett, 2 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -9078,6 +11465,7 @@
       "vegetarisch",
       "Eier"
     ],
+    "suitableFor": [],
     "nutrition": "315 kcal, 18 g Eiweiß, 21 g Fett, 6 g Kohlenhydrate"
   },
   {
@@ -9101,6 +11489,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 332 kcal, 37 g Kohlenhydrate, 13 g Fett, 15 g Protein, 12 g Ballaststoffe"
   },
   {
@@ -9124,6 +11513,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 280 kcal, 8 g Eiweiß, 9 g Fett, 40 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -9147,6 +11537,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "370 kcal, 17 g Eiweiß, 19 g Fett, 28 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -9170,6 +11561,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -9193,6 +11585,23 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "circa 534 kcal, 25 g Eiweiß, 34 g Fett, 32 g Kohlenhydrate, 15 g Ballaststoffe"
   },
   {
@@ -9213,6 +11622,16 @@
       "Frühstück",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Hämorrhoiden",
+      "Restless-Legs-Syndrom",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 615 kcal, 20 g Eiweiß, 28 g Fett, 61 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -9235,6 +11654,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "circa 510 kcal, 13 g Eiweiß, 27 g Fett, 46 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -9257,6 +11677,17 @@
       "vegan",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Verstopfung"
     ],
     "nutrition": "circa 260 kcal, 9 g Eiweiß, 4 g Fett, 41 g Kohlenhydrate, 9 g Ballaststoffe"
   },
@@ -9281,6 +11712,19 @@
       "Getränke",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung"
+    ],
     "nutrition": "circa 350 kcal, 14 g Eiweiß, 29 g Fett, 35 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -9303,6 +11747,21 @@
       "Suppen/Eintöpfe",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom"
     ],
     "nutrition": "ca. 431 kcal, 26 g Eiweiß, 20 g Fett, 36 g Kohlenhydrate, 15 g Ballaststoffe"
   },
@@ -9327,6 +11786,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "160 kcal, 3 g Eiweiß, 14 g Fett, 3 g Kohlenhydrate, 2 g Ballaststoffe, 0 BE"
   },
   {
@@ -9350,6 +11810,7 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "circa 20 kcal, 1 g Kohlenhydrate, 1 g Fett, 2 g Protein, 0 g Ballaststoffe"
   },
   {
@@ -9369,6 +11830,7 @@
       "gesund",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 428 kcal, 19 g Fett, 19 g Kohlenhydrate, 44 g Eiweiß, 9 g Ballaststoffe, 1,5 BE"
   },
   {
@@ -9394,6 +11856,7 @@
       "vegetarisch",
       "Silvester"
     ],
+    "suitableFor": [],
     "nutrition": "26 kcal, 2 g Fett, 0 g Kohlenhdrate, 2 g Eiweiß, 0 g Ballaststoffe, 0 BE"
   },
   {
@@ -9419,6 +11882,7 @@
       "Sommergerichte",
       "Nudeln"
     ],
+    "suitableFor": [],
     "nutrition": "490 kcal, 20 g Eiweiß, 15 g Fett, 63 g Kohlenhydrate, 8 g Ballaststoffe, 117 mg Calcium, 33 mg Purin"
   },
   {
@@ -9442,6 +11906,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 461 kcal, 28 g Fett, 41 g Kohlenhydrate, 10 g Eiweiß, 5 g Ballaststoffe, 3,5 BE"
   },
   {
@@ -9465,6 +11930,18 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Reizmagen",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 271 kcal, 11 g Eiweiß, 11 g Fett, 30 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -9484,6 +11961,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 315 kcal, 10 g Fett, 42 g Kohlenhydrate, 13 g Eiweiß, 4 g Ballaststoffe, 3,5 BE"
   },
   {
@@ -9505,6 +11983,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "105 kcal, 4 g Fett, 12 g Kohlenhydrate, 5 g Eiweiß, 3 g Ballaststoffe, BE 1"
   },
   {
@@ -9522,6 +12001,7 @@
       "Brotaufstriche/Dips/Soßen",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "107 kcal, 1 g Fett, 22 g Kohlenhydrate, 1 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -9540,6 +12020,20 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung"
     ],
     "nutrition": "circa 209 kcal, 8 g Eiweiß, 15 g Fett, 12 g Kohlenhydrate, 4 g Ballaststoffe"
   },
@@ -9566,6 +12060,7 @@
       "Pilze",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "358 kcal, 18 g Fett, 30 g Kohlenhydrate, 19 g Eiweiß, 12 g Ballaststoffe, 2 BE"
   },
   {
@@ -9587,6 +12082,7 @@
       "Kartoffeln",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "374 kcal, 12 g Fett, 33 g Kohlenhydrate, 32 g Eiweiß, 2 g Ballaststoffe, 2,7 BE"
   },
   {
@@ -9608,6 +12104,7 @@
       "Hähnchen",
       "mediterran"
     ],
+    "suitableFor": [],
     "nutrition": "294 kcal, 33 g Kohlenhydrate, 8 g Fett, 21 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -9627,6 +12124,7 @@
       "gesund",
       "Pizza/Flammkuchen"
     ],
+    "suitableFor": [],
     "nutrition": "circa 555 kcal, 39 g Eiweiß, 36 g Fett, 16 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -9646,6 +12144,7 @@
       "Pizza/Flammkuchen",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 417 kcal, 30 g Kohlenhydrate, 16 g Eiweiß, 26 g Fett, 9 g Ballaststoffe"
   },
   {
@@ -9667,6 +12166,7 @@
       "Fisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 412 kcal, 4 g Kohlenhydrate, 36 g Eiweiß, 28 g Fett, 1 g Ballaststoffe"
   },
   {
@@ -9690,6 +12190,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "504 kcal, 35 g Eiweiß, 30 g Fett, 21 g Kohlenhydrate"
   },
   {
@@ -9717,6 +12218,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "385 kcal, 35 g Fett, 8 g Kohlenhydrate, 9 g Eiweiß, 6 g Ballaststoffe, BE 0,7"
   },
   {
@@ -9736,6 +12238,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "398 kcal, 34 g Kohlenhydrate, 22 g Fett, 14 g Eiweiß, 9 g Ballaststoffe, 3 BE"
   },
   {
@@ -9763,6 +12266,7 @@
       "Getreide",
       "international"
     ],
+    "suitableFor": [],
     "nutrition": "372 kcal, 21 g Fett, 31 g Kohlenhydrate, 15 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -9784,6 +12288,7 @@
       "vegan",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "ohne Banane:<br>circa 354 kcal, 19 g Kohlenhydrate, 28 g Fett, 8 g Eiweiß, 5 g Ballaststoffe<br><br>mit Banane:<br>circa 399 kcal, 29 g Kohlenhydrate, 28 g Fett, 8 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -9803,6 +12308,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "360 kcal, 16 g Eiweiß, 14 g Fett, 36 g Kohlenhydrate, 8 g Ballaststoffe, 3BE"
   },
   {
@@ -9826,6 +12332,7 @@
       "Abendbrot",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "circa 115 kcal, 6 g Fett, 11 g Kohlenhydrate, 5 g Eiweiß, 3 g Ballaststoffe, 1 BE"
   },
   {
@@ -9849,6 +12356,18 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 463 kcal, 21 g Eiweiß, 26 g Fett, 34 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -9865,6 +12384,19 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "COPD",
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Morbus Bechterew",
+      "Reizmagen",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Speiseröhrenkrebs",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Speiseröhrenkrebs-Nachsorge"
     ],
     "nutrition": "circa 492 kcal, 43 g Kohlenhydrate, 26 g Fett, 20 g Eiweiß, 8 g Ballaststoffe"
   },
@@ -9887,6 +12419,19 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 590 kcal, 28 g Eiweiß, 32 g Fett, 45 g Kohlenhydrate, 18 g Ballaststoffe"
   },
   {
@@ -9908,6 +12453,23 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Colitis ulcerosa",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gastritis",
+      "Gicht",
+      "Hashimoto",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Sodbrennen",
+      "Zöliakie",
+      "Herpes",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
+    ],
     "nutrition": "circa 328 kcal, 12 g Kohlenhydrate, 19 g Fett, 28 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -9927,6 +12489,7 @@
       "Geflügel",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 515 kcal, 45 g Eiweiß, 19 g Fett, 38 g Kohlenhydrate, 20 g Ballaststoffe"
   },
   {
@@ -9946,6 +12509,7 @@
       "gesund",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "circa 508 kcal, 9 g Kohlenhydrate, 19 g Fett, 75 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -9971,6 +12535,7 @@
       "deutsch",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "509 kcal, 28 g Fett, 11 g Kohlenhydrate, 54 g Eiweiß, 2 g Ballaststoffe, 1 BE"
   },
   {
@@ -9987,6 +12552,29 @@
     "tags": [
       "gesund",
       "Frühstück"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Endometriose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "PCO-Syndrom",
+      "Potenzstörung",
+      "Schlaf-Apnoe",
+      "Sinusitis",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "circa 185 kcal, 7 g Fett, 13 g Kohlenhydrate, 16 g Eiweiß, 9 g Ballaststoffe"
   },
@@ -10011,6 +12599,7 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "237 kcal, 18 g Fett, 2 g Kohlenhydrate, 15 g Eiweiß"
   },
   {
@@ -10030,6 +12619,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "205 kcal, 15 g Eiweiß, 16 g Kohlenhydrate, 8 g Fett, 6 g Ballaststoffe"
   },
   {
@@ -10048,6 +12638,26 @@
       "Gemüse",
       "gesund",
       "Frühstück"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Adipositas",
+      "COPD",
+      "Diabetes",
+      "Endometriose",
+      "Fettleber",
+      "Gicht",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Lymphozytäre Kolitis",
+      "Magenverkleinerung"
     ],
     "nutrition": "370 kcal, 24 g Eiweiß, 25 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe, 260 mg Ca, 4 mg Purin"
   },
@@ -10074,6 +12684,7 @@
       "Abendbrot",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "125 kcal, 10 g Eiweiß, 5 g Fett, 10 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -10094,6 +12705,18 @@
       "Frühstück",
       "Getreide",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Diabetes",
+      "Restless-Legs-Syndrom",
+      "Rosazea",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Long Covid"
     ],
     "nutrition": "circa 653 kcal, 33 g Eiweiß, 31 g Fett, 62 g Kohlenhydrate, 17 g Ballaststoffe"
   },
@@ -10116,6 +12739,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "431 kcal, 18 g Fett, 25 g Kohlenhydrate, 40 g Eiweiß, 8 g Ballaststoffe, 2,1 BE"
   },
   {
@@ -10133,6 +12757,7 @@
       "gesund",
       "Frühstück"
     ],
+    "suitableFor": [],
     "nutrition": "circa 337 kcal, 31 g Kohlenhydrate, 26 g Eiweiß, 12 g Fett. 6 g Ballaststoffe"
   },
   {
@@ -10154,6 +12779,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa. 304 kcal, 30 g Kohlenhydrate, 13 g Fett, 16 g Eiweiß, 10 g Ballaststoffe"
   },
   {
@@ -10177,6 +12803,7 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 613 kcal, 62 g Kohlenhydrate, 36 g Fett, 11 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -10202,6 +12829,7 @@
       "Gemüse",
       "Pilze"
     ],
+    "suitableFor": [],
     "nutrition": "circa 445 kcal, 41 g Kohlenhydrate, 24 g Fett, 16 g Eiweiß, 14 g Ballaststoffe"
   },
   {
@@ -10225,6 +12853,7 @@
       "Getreide",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 630 kcal, 22 g Eiweiß, 41 g Fett, 39 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -10246,6 +12875,21 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Hämorrhoiden",
+      "Hashimoto",
+      "Migräne",
+      "Morbus Crohn",
+      "Multi-Intoleranzen",
+      "Sodbrennen",
+      "Reizdarmsyndrom",
+      "Verstopfung"
+    ],
     "nutrition": "341 kcal, 13 g Eiweiß, 11 g Fett, 47 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -10264,6 +12908,23 @@
       "gesund",
       "Frühstück",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Dünndarmfehlbesiedlung",
+      "Fersensporn",
+      "Herzmuskelerkrankung",
+      "Herzschwäche",
+      "Übergewicht",
+      "Metabolisches Syndrom",
+      "Neurodermitis",
+      "Nierensteine",
+      "Potenzstörung",
+      "Sodbrennen",
+      "Sinusitis",
+      "Bronchitis",
+      "Intensivem Sport"
     ],
     "nutrition": "279 kcal, 9 g Eiweiß, 6 g Fett, 44 g Kohlenhydrate, 8 g Ballaststoffe"
   },
@@ -10290,6 +12951,18 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Fettleber",
+      "Morbus Bechterew",
+      "Reizdarm",
+      "Reizmagen",
+      "Restless-Legs-Syndrom",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden",
+      "Arthrose"
+    ],
     "nutrition": "circa 473 kcal, 30 g Eiweiß, 18 g Fett 47 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -10315,6 +12988,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "540 kcal, 21 g Eiweiß, 33 g Fett, 35 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -10333,6 +13007,21 @@
       "Salate",
       "gesund",
       "Spinat"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
     ],
     "nutrition": "circa 560 kcal, 23 g Eiweiß, 32 g Fett, 39 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -10355,6 +13044,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 560 kcal, 18 g Eiweiß, 33 g Fett, 42 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -10378,6 +13068,7 @@
       "schnell",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "150 kcal, 5 g Eiweiß, 12,9 g Fett, 3,7 g Kohlenhydrate, 2,1 g Ballaststoffe"
   },
   {
@@ -10399,6 +13090,7 @@
       "Abendbrot",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "215 kcal, 28 g Eiweiß, 3 g Fett, 9 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -10419,6 +13111,18 @@
       "Suppen/Eintöpfe",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Schuppenflechte",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "ca. 292 kcal, 7 g Eiweiß, 24 g Fett, 12 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -10441,6 +13145,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "230 kcal, 9 g Eiweiß, 8 g Fett, 24 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -10462,6 +13167,7 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "mit Halloumi: circa 540 kcal, 16 g Kohlenhydrate, 40 g Fett, 25 g Eiweiß, 9 g Ballaststoffe<br><br>mit Feta: circa 368 kcal, 15 g Kohlenhydrate, 26 g Fett, 17 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -10485,6 +13191,7 @@
       "vegetarisch",
       "grillen"
     ],
+    "suitableFor": [],
     "nutrition": "129 kcal, 6 g Eiweiß, 8 g Fett, 9 g Kohlenhydrate"
   },
   {
@@ -10507,6 +13214,18 @@
       "asiatisch",
       "Reis",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Eosinophile Ösophagitis",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Rheuma",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 792 kcal, 50 g Fett, 63 g Kohlenhydrate, 21 g Eiweiß, 9 g Ballaststoffe"
   },
@@ -10533,6 +13252,7 @@
       "asiatisch",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "234 kcal, 1 g Fett, 50 g Kohlenhydrate, 5 g Eiweiß, 5 g Ballaststoffe, 4 BE"
   },
   {
@@ -10554,6 +13274,7 @@
       "Fisch",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "circa. 480 kcal, 48 g Kohlenhydrate, 20 g Fett, 24 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -10565,6 +13286,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -10576,6 +13298,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -10587,6 +13310,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -10598,6 +13322,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -10609,6 +13334,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -10628,6 +13354,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 520 kcal, 28 g Eiweiß, 36 g Fett, 19 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -10647,6 +13374,7 @@
       "Rind",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "540 kcal, 40 g Eiweiß, 35 g Fett, 12 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -10668,6 +13396,7 @@
       "gesund",
       "Rind"
     ],
+    "suitableFor": [],
     "nutrition": "415 kcal, 46 g Eiweiß, 19 g Fett, 15 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -10689,6 +13418,7 @@
       "Sandwiches",
       "Eier"
     ],
+    "suitableFor": [],
     "nutrition": "284 kcal, 14 g Fett, 27 g Kohlenhydrate, 13 g Eiweiß, 3 g Ballaststoffe, 2 BE"
   },
   {
@@ -10714,6 +13444,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 423 kcal, 14 g Kohlenhydrate, 31 g Fett, 24 g Eiweiß, 10 g Ballaststoffe"
   },
   {
@@ -10732,6 +13463,21 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "ADHS",
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "Darmkrebs",
+      "Divertikulose",
+      "Endometriose",
+      "Fettstoffwechselstörung",
+      "Neurodermitis",
+      "Zöliakie",
+      "Darmkrebs-Nachsorge"
     ],
     "nutrition": "circa 204 kcal, 10 g Fett, 24 g Kohlenhydrate, 3 g Eiweiß, 5 g Ballaststoffe"
   },
@@ -10758,6 +13504,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "470 kcal, 30 g Eiweiß, 12 g Fett, 50 g Kohlenhydrate, 20 g Ballaststoffe"
   },
   {
@@ -10783,6 +13530,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "216 kcal, 12,8 g Eiweiß, 5,6 g Fett, 27,6 g Kohlenhydrate, 6,8 g Ballaststoffe"
   },
   {
@@ -10801,6 +13549,17 @@
       "gesund",
       "Reis",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Zöliakie"
     ],
     "nutrition": "ca. 480 kcal, 33 g Kohlenhydrate, 29 g Fett, 19 g Eiweiß, 4 g Ballaststoffe"
   },
@@ -10825,6 +13584,7 @@
       "Weihnachten",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa. 380 kcal, 15 g Kohlenhydrate, 28 g Fett, 17 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -10848,6 +13608,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 420 kcal, 21 g Eiweiß, 26 g Fett, 21 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -10870,6 +13631,10 @@
       "Aufläufe",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Fettleber"
     ],
     "nutrition": "ca. 415 kcal, 13 g Eiweiß, 31 g Fett, 18 g Kohlenhydrate, 7 g Ballaststoffe&nbsp;"
   },
@@ -10896,6 +13661,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "130 kcal, 4 g Eiweiß, 7 g Fett, 11 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -10913,6 +13679,7 @@
       "Brotaufstriche/Dips/Soßen",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 120 kcal, 3 g Eiweiß, 8 g Fett, 7 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -10934,6 +13701,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 442 kcal, 30 g Kohlenhydrate, 23 g Eiweiß, 25 g Fett, 6 g Ballaststoffe"
   },
   {
@@ -10954,6 +13722,18 @@
       "gesund",
       "Pizza/Flammkuchen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Diabetes",
+      "Eosinophile Ösophagitis",
+      "Fettleber",
+      "Hämorrhoiden",
+      "Rheuma",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "circa 594 kcal, 28 g Fett, 57 g Kohlenhydrate, 27 g Eiweiß, 18 g Ballaststoffe"
   },
@@ -10976,6 +13756,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "228 kcal, 7 g Eiweiß, 2 g Fett, 45 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -10999,6 +13780,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "265 kcal, 17 g Fett, 23 g Kohlenhydrate, 4 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -11024,6 +13806,7 @@
       "Gemüse",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "309 kcal, 51 g Kohlenhydrate, 9 g Fett, 7 g Eiweiß, 6 g Ballaststoffe, 4,2 BE"
   },
   {
@@ -11045,6 +13828,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "407 kcal, 25 g Fett, 15 g Kohlenhydrate, 30 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -11064,6 +13848,7 @@
       "Backen",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "circa 247 kcal, 13 g Kohlenhydrate, 10 g Eiweiß, 17 g Fett, 6 g Ballaststoffe, 1 BE"
   },
   {
@@ -11085,6 +13870,7 @@
       "gesund",
       "Fisch"
     ],
+    "suitableFor": [],
     "nutrition": "92,8 kcal, 10,1 g Eiweiß, 4,6 g Fett, 2,5 g Kohlenhydrate, 0,9 g Ballaststoffe"
   },
   {
@@ -11105,6 +13891,19 @@
       "gesund",
       "Fisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Zöliakie",
+      "Arthrose"
     ],
     "nutrition": "ca. 356 kcal, 29 g Eiweiß, 12 g Fett, 32 g Kohlenhydrate, 8 g Ballaststoffe"
   },
@@ -11129,6 +13928,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "ohne Nüsse und Cranberrys: 445 kcal, 16 g Fett, 56 g Kohlenhydrate, 17g Eiweiß, 20 g Ballaststoffe<br>mit Nüssen und Cranberrys: 601 kcal, 27 g Fett, 17 g Eiweiß, 69 g Kohlenhydrate, 22 g Ballaststoffe"
   },
   {
@@ -11150,6 +13950,7 @@
       "schnell",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "318 kcal, 16 g Eiweiß, 24 g Fett, 9 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -11173,6 +13974,7 @@
       "vegan",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "282 kcal, 20 g Fett, 18 g Kohlenhydrate, 4 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -11196,6 +13998,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 542 kcal, 17 g Kohlenhydrate, 19 g Eiweiß, 45 g Fett, 5 g Ballaststoffe"
   },
   {
@@ -11221,6 +14024,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "198 kcal, 14 g Eiweiß, 1 g Fett, 32 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -11242,6 +14046,7 @@
       "gesund",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 448 kcal, 13 g Fett, 61 g Kohlenhydrate, 19 g Eiweiß, 15 g Ballaststoffe"
   },
   {
@@ -11265,6 +14070,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "286 kcal, 11 g Eiweiß, 23 g Fett, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -11290,6 +14096,19 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Diabetes",
+      "Fettleber",
+      "Hashimoto",
+      "Hämorrhoiden",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 221 kcal, 9 g Eiweiß, 6 g Fett, 26 g Kohlenhydrate, 14 g Ballaststoffe"
   },
   {
@@ -11311,6 +14130,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "343 kcal, 18 g Fett, 8 g Kohlenhydrate, 36 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -11328,6 +14148,7 @@
       "gesund",
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "circa 161 kcal, 14 g Kohlenhydrate, 5 g Fett, 13 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -11351,6 +14172,21 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "COPD",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "mit Hack: 381 kcal, 25 g Fett, 10 g Kohlenhydrate, 29 g Eiweiß, 6 g Ballaststoffe<br>mit Lachs: 450 kcal, 28 g Fett, 10 g Kohlenhydrate, 39 g Eiweiß, 6 g Ballaststoffe"
   },
   {
@@ -11372,6 +14208,7 @@
       "Frühstück",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "circa 504 kcal, 53 g Kohlenhydrate, 14 g Eiweiß, 26 g Fett, 3 g Ballaststoffe"
   },
   {
@@ -11397,6 +14234,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "325 kcal, 17 g Eiweiß, 17 g Fett, 21 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -11418,6 +14256,7 @@
       "vegetarisch",
       "norddeutsch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 467 kcal, 45 g Kohlenhydrate, 24 g Fett, 17 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -11439,6 +14278,17 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Brustkrebs-Nachsorge"
+    ],
     "nutrition": "circa 239 kcal, 15 g Fett, 13 g Kohlenhydrate, 12 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -11458,6 +14308,18 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [
+      "Colitis indeterminata",
+      "Colitis ulcerosa",
+      "Dünndarmfehlbesiedlung",
+      "Gastritis",
+      "Gastroparese",
+      "Reizmagen",
+      "Untergewicht",
+      "Verstopfung",
+      "Zöliakie",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 283 kcal, 10 g Eiweiß, 7 g Fett, 43 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -11475,6 +14337,25 @@
       "Desserts",
       "vegan"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Multiple Sklerose",
+      "Parodontitis",
+      "Potenzstörung",
+      "Rheuma",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "213 kcal, 8 g Eiweiß, 16 g Fett, 9 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -11491,6 +14372,19 @@
     "tags": [
       "schnell",
       "Kekse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Diabetes",
+      "Fibromyalgie",
+      "Gicht",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Untergewicht"
     ],
     "nutrition": "circa 217 kcal, 10 g Kohlenhydrate, 17 g Fett, 7 g Eiweiß, 4 g Ballaststoffe"
   },
@@ -11511,6 +14405,12 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber"
+    ],
     "nutrition": "118 kcal, 10 g Fett, 4 g Kohlenhydrate, 3 g Eiweiß, 2 g Ballaststoffe, 0,3 BE"
   },
   {
@@ -11526,6 +14426,7 @@
     "tags": [
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "103 kcal, 11 g Fett, 3 g Kohlenhydrate, 2 g Eiweiß, 1 g Ballaststoffe"
   },
   {
@@ -11548,6 +14449,16 @@
       "gesund",
       "Pizza/Flammkuchen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "ADHS",
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "PCO-Syndrom"
     ],
     "nutrition": "circa. 366 kcal, 24 g Eiweiß, 19 g Fett, 24 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -11576,6 +14487,7 @@
       "Lachs",
       "Spinat"
     ],
+    "suitableFor": [],
     "nutrition": "circa 285 kcal, 24 g Eiweiß, 8 g Kohlenhydrate, 18 g Fett, 3 g Ballaststoffe"
   },
   {
@@ -11601,6 +14513,7 @@
       "Abendbrot",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 110 kcal, 15 g Kohlenhydrate, 3 g Fett, 5 g Protein, 3 g Ballaststoffe"
   },
   {
@@ -11621,6 +14534,17 @@
       "Backen",
       "Kuchen",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Reizmagen",
+      "Untergewicht",
+      "Zöliakie"
     ],
     "nutrition": "circa 189 kcal, 12 g Eiweiß, 9 g Fett, 15 g Kohlenhydrate, 2 g Ballaststoffe"
   },
@@ -11643,6 +14567,14 @@
       "Geflügel",
       "gesund"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Untergewicht"
+    ],
     "nutrition": "circa 356 kcal, 10 g Fett, 34 g Kohlenhydrate, 32 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -11662,6 +14594,22 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Darmkrebs",
+      "Fersensporn",
+      "Fettstoffwechselstörung",
+      "Herzschwäche",
+      "Long Covid",
+      "Metabolisches Syndrom",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Darmkrebs-Nachsorge",
+      "Magenverkleinerung"
+    ],
     "nutrition": "57 kcal, 5 g Kohlenhydrate, 3 g Fett, 2 g Eiweiß, 1 g Ballaststoffe, 0,3 BE"
   },
   {
@@ -11678,6 +14626,15 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Nierensteine",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung"
     ],
     "nutrition": null
   },
@@ -11700,6 +14657,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 320 kcal, 14 g Kohlenhydrate, 27 g Fett, 6 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -11723,6 +14681,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 440 kcal, 12 g Kohlenhydrate, 28 g Fett, 32 g Eiweiß, 7 g Ballaststoffe"
   },
   {
@@ -11748,6 +14707,7 @@
       "vegetarisch",
       "Eier"
     ],
+    "suitableFor": [],
     "nutrition": "200 kcal, 14 g Eiweiß, 11 g Fett, 10 g Kohlenhydrate, 3 g Ballaststoffe<br>"
   },
   {
@@ -11767,6 +14727,7 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "circa 523 kcal, 23 g Fett, 40 g Kohlenhydrate, 37 g Eiweiß, 11 g Ballaststoffe, 3,5 BE"
   },
   {
@@ -11786,6 +14747,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "circa 210 kcal, 15 g Fett, 17 Kohlenhydrate, 3 g Eiweiß, 8 Ballaststoffe, 1,4 BE"
   },
   {
@@ -11805,6 +14767,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "183 kcal, 5 g Fett, 27 g Kohlenhydrate, 7 g Eiweiß, 9 g Ballaststoffe, BE 2,2"
   },
   {
@@ -11826,6 +14789,7 @@
       "Smoothies",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "116 kcal, 11 g Fett, 3 g Kohlenhydrate, 2 g Eiweiß, 2 g Ballaststoffe, 0,3 BE"
   },
   {
@@ -11845,6 +14809,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "245 kcal, 7 g Eiweiß, 12 g Fett, 27 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -11868,6 +14833,7 @@
       "Smoothies",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "100 kcal, 2 g Eiweiß, 6 g Fett, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -11887,6 +14853,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "261 kcal, 4 g Eiweiß, 13 g Fett, 32 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -11906,6 +14873,7 @@
       "Getränke",
       "Smoothies"
     ],
+    "suitableFor": [],
     "nutrition": "240 kcal, 5 g Eiweiß, 6 g Fett, 36 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -11927,6 +14895,7 @@
       "gesund",
       "Getränke"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 350 kcal, 26 g Fett, 28 Kohlenhydrate, 3 g Eiweiß, 8 Ballaststoffe, 2,3 BE"
   },
   {
@@ -11946,6 +14915,7 @@
       "Smoothies",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 160 kcal, 10 g Fett, 15 g Kohlenhydrate, 2 g Eiweiß, 5 g Ballaststoffe, 1,2 BE"
   },
   {
@@ -11971,6 +14941,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "130 kcal, 4 g Eiweiß, 7 g Fett, 11 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -11996,6 +14967,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "206 kcal, 5 g Eiweiß, 11 g Fett, 20 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -12021,6 +14993,7 @@
       "Möhren",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "211 kcal, 26 g Eiweiß, 6,3 g Fett, 12,1 g Kohlenhydrate, 13,4 g Ballaststoffe"
   },
   {
@@ -12043,6 +15016,19 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Verstopfung"
     ],
     "nutrition": "circa 570<strong> </strong> kcal, 18 g Eiweiß, 34 g Fett, 39 g Kohlenhydrate, 13 g Ballaststoffe"
   },
@@ -12069,6 +15055,21 @@
       "Suppen/Eintöpfe",
       "mediterran"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Wechseljahresbeschwerden",
+      "Zöliakie"
+    ],
     "nutrition": "circa 500 kcal, 38 g Eiweiß, 21 g Fett, 33 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -12094,6 +15095,7 @@
       "Frühstück",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 440 kcal, 25 g Eiweiß; 13 g Fett, 48 g Kohlenhydrate, 7 g Ballaststoffe, 177 mg Calzium, 40 mg Purin"
   },
   {
@@ -12117,6 +15119,7 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 189 kcal, 29 g Kohlenhydrate, 2 g Fett, 14 g Eiweiß, 2 g Ballaststoffe"
   },
   {
@@ -12135,6 +15138,17 @@
       "Salate",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "ca. 350 kcal, 10 g Eiweiß, 28 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe"
   },
@@ -12156,6 +15170,17 @@
       "Geflügel",
       "gesund",
       "Nudeln"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Fettleber",
+      "Hämorrhoiden",
+      "Rheuma",
+      "Rosazea",
+      "Verstopfung"
     ],
     "nutrition": "circa 635 kcal, 34 g Eiweiß, 30 g Fett, 55 g Kohlenhydrate, 14 g Ballaststoffe"
   },
@@ -12182,6 +15207,7 @@
       "Aufläufe",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "410 kcal, 41 g Eiweiß, 20 g Fett, 12 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -12207,6 +15233,7 @@
       "Hähnchen",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "420 kcal, 13 g Kohlenhydrate, 36 g Eiweiß, 24 g Fett, 4 g Ballaststoffe, 1 BE"
   },
   {
@@ -12232,6 +15259,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "320 kcal, 17 g Eiweiß, 13 g Fett, 31 g Kohlenhydrate"
   },
   {
@@ -12259,6 +15287,18 @@
       "gesund",
       "Spinat"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Gastroparese",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Zöliakie",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 382 kcal, 39 g Eiweiß, 14 g Fett, 22 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -12281,6 +15321,20 @@
       "vegan",
       "Spinat",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Bronchitis",
+      "Brustkrebs-Nachsorge",
+      "Darmkrebs-Nachsorge",
+      "Eosinophile Ösophagitis",
+      "Fersensporn",
+      "Hashimoto",
+      "Long Covid",
+      "Zöliakie",
+      "Herpes"
     ],
     "nutrition": "circa 264 kcal, 12 g Fett, 31 g Kohlenhydrate, 8 g Eiweiß, 9 g Ballaststoffe"
   },
@@ -12307,6 +15361,7 @@
       "Pilze",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": null
   },
   {
@@ -12334,6 +15389,7 @@
       "Sommergerichte",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 450 kcal, 33 g Eiweiß, 27 g Fett, 15 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -12357,6 +15413,20 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 270 kcal, 8 g Eiweiß, 19 g Fett, 13 g Kohlenhydrate, 8 g Ballaststoffe"
   },
   {
@@ -12378,6 +15448,7 @@
       "Geflügel",
       "gesund"
     ],
+    "suitableFor": [],
     "nutrition": "310 kcal, 24 g Eiweiß, 12 g Fett, 22 g Kohlenhydrate, 6 g Ballaststoffe, 157 mg Calcium, 61 mg Purin"
   },
   {
@@ -12400,6 +15471,16 @@
       "vegan",
       "Fingerfood",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Morbus Bechterew",
+      "Rheuma",
+      "Schuppenflechte",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 555 kcal, 13 g Eiweiß, 21 g Fett, 74 g Kohlenhydrate, 16 g Ballaststoffe"
   },
@@ -12428,6 +15509,7 @@
       "Fisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "230 kcal, 16 g Eiweiß, 14 g Fett, 7 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -12450,6 +15532,16 @@
       "vegetarisch",
       "Eier",
       "deutsch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 410 kcal, 26 g Fett, 13 g Kohlenhydrate, 32 g Eiweiß, 6 g Ballaststoffe"
   },
@@ -12474,6 +15566,17 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Verstopfung",
+      "Arthrose"
+    ],
     "nutrition": "circa 286 kcal, 10 g Eiweiß, 5 g Fett, 48 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -12497,6 +15600,18 @@
       "Fingerfood",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Morbus Bechterew",
+      "Rheuma",
+      "Untergewicht",
+      "Verstopfung",
+      "Zöliakie"
+    ],
     "nutrition": "ca. 404 kcal, 12 g Eiweiß, 13 g Fett, 58 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -12516,6 +15631,7 @@
       "Frühstück",
       "vegan"
     ],
+    "suitableFor": [],
     "nutrition": "circa 575 kcal, 24 g Eiweiß, 19 g Fett, 67 g Kohlenhydrate,18 g Ballaststoffe"
   },
   {
@@ -12538,6 +15654,18 @@
       "vegetarisch",
       "Getreide",
       "asiatisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Fersensporn",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Parodontitis",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "304 kcal, 39 g Kohlenhydrate, 12 g Fett, 8 g Eiweiß"
   },
@@ -12564,6 +15692,20 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom"
+    ],
     "nutrition": "ca. 550 kcal, 24 g Eiweiß, 29 g Fett, 41 g Kohlenhydrate, 12 g Ballaststoffe"
   },
   {
@@ -12584,6 +15726,22 @@
       "gesund",
       "asiatisch",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Depression",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Hashimoto",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 326 kcal, 20 g Fett, 15 g Kohlenhydrate, 22 g Eiweiß, 13 g Ballaststoffe"
   },
@@ -12606,6 +15764,7 @@
       "gesund",
       "asiatisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 518 kcal, 16 g Kohlenhydrate, 33 g Fett, 40 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -12625,6 +15784,7 @@
       "Fisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 400 kcal, 22 g Kohlenhydrate, 23 g Fett, 25 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -12644,6 +15804,7 @@
       "gesund",
       "schnell"
     ],
+    "suitableFor": [],
     "nutrition": "circa 312 kcal, 10 g Kohlenhydrate, 20 g Fett, 23 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -12669,6 +15830,7 @@
       "Fisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "379 kcal, 5 g Kohlenhydrate, 24 g Eiweiß, 29 g Fett, 2 g Ballaststoffe, 0,4 BE"
   },
   {
@@ -12694,6 +15856,19 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Gastritis",
+      "Gastroparese",
+      "Reizdarm",
+      "Reizmagen",
+      "Wechseljahresbeschwerden",
+      "Motilitätsstörung"
+    ],
     "nutrition": "circa 39 kcal, 3 g Eiweiß, 3 g Fett, 1 g Kohlenhydrate, 0,5 g Ballaststoffe"
   },
   {
@@ -12715,6 +15890,7 @@
       "Tomaten",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "480 kcal, 21 g Eiweiß, 33 g Fett, 19 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -12736,6 +15912,7 @@
       "Tomaten",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "63,6 kcal, 10,3 g Eiweiß, 0,6 g Fett, 3,5 g Kohlenhydrate, 0,3 g Ballaststoffe"
   },
   {
@@ -12761,6 +15938,7 @@
       "vegetarisch",
       "Reis"
     ],
+    "suitableFor": [],
     "nutrition": "316 kcal, 51 g Kohlenhydrate, 11 g Eiweiß, 7 g Fett, 8 g Ballaststoffe, 4,2 BE"
   },
   {
@@ -12777,6 +15955,18 @@
     "tags": [
       "gesund",
       "Getreide"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Schuppenflechte",
+      "Verstopfung",
+      "Arthrose"
     ],
     "nutrition": "circa 310 kcal, 11 g Eiweiß, 12 g Fett, 35 g Kohlenhydrate, 14 g Ballaststoffe"
   },
@@ -12801,6 +15991,7 @@
       "Frühstück",
       "Eier"
     ],
+    "suitableFor": [],
     "nutrition": "301 kcal, 22 g Fett, 9 g Kohlenhydrate, 18 g Eiweiß, 3 g Ballaststoffe"
   },
   {
@@ -12822,6 +16013,7 @@
       "Tomaten",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "circa 180 kcal, 6 g Eiweiß, 8 g Fett,18 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -12843,6 +16035,7 @@
       "Suppen/Eintöpfe",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "145 kcal, 5 g Eiweiß, 9 g Fett, 10 g Kohlenhydrate"
   },
   {
@@ -12861,6 +16054,18 @@
       "Gemüse",
       "gesund",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Hämorrhoiden",
+      "PCO-Syndrom",
+      "Verstopfung"
     ],
     "nutrition": "circa 150 kcal, 11 g Eiweiß, 6 g Fett, 12 g Kohlenhydrate, 14 g Ballaststoffe"
   },
@@ -12887,6 +16092,16 @@
       "international",
       "Rind"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Divertikulose",
+      "Fettleber",
+      "Reizmagen",
+      "Verstopfung",
+      "Zöliakie",
+      "Morbus Crohn"
+    ],
     "nutrition": "ca. 510 kcal, 29 g Eiweiß, 29 g Fett, 31 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -12909,6 +16124,44 @@
       "Geflügel",
       "gesund",
       "mediterran"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Bronchitis",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Darmkrebs",
+      "Depression",
+      "Diabetes",
+      "Divertikulose",
+      "Eosinophile Ösophagitis",
+      "Fersensporn",
+      "Fettstoffwechselstörungen",
+      "Fußpilz",
+      "Hashimoto",
+      "Hämorrhoiden",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Morbus Bechterew",
+      "Multiple Sklerose",
+      "Nasenpolypen",
+      "Neurodermitis",
+      "Nierensteine",
+      "Parodontitis",
+      "PCO-Syndrom",
+      "Potenzstörung",
+      "Rheuma",
+      "Rosazea",
+      "Schuppenflechte",
+      "Sinusitis",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Zöliakie",
+      "Darmkrebs-Nachsorge"
     ],
     "nutrition": "circa 415 kcal, 25 g Kohlenhydrate, 44 g Eiweiß, 13 g Fett, 9 g Ballaststoffe"
   },
@@ -12933,6 +16186,17 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Rheuma",
+      "Verstopfung"
+    ],
     "nutrition": "circa 300 kcal, 11 g Eiweiß, 5 g Fett, 47 g Kohlenhydrate, 10 g Ballaststoffe, 2,7 g Beta-Glucan"
   },
   {
@@ -12952,6 +16216,7 @@
       "Frühstück",
       "Desserts"
     ],
+    "suitableFor": [],
     "nutrition": "249 kcal, 27 g Eiweiß, 5 g Fett, 27 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -12981,6 +16246,7 @@
       "Sommergerichte",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 454 kcal, 32 g Kohlenhydrate, 27 g Fett, 20 g Eiweiß, 11 g Ballaststoffe, 2,6 BE"
   },
   {
@@ -13003,6 +16269,13 @@
       "Nudeln",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "COPD",
+      "Gicht",
+      "Hämorrhoiden",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 656 kcal, 29 g Eiweiß, 22 g Fett, 82 g Kohlenhydrate, 18 g Ballaststoffe"
   },
@@ -13027,6 +16300,7 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 616 kcal, 28 g Eiweiß, 17 g Fett, 78 g Kohlenhydrate, 24 g Ballaststoffe"
   },
   {
@@ -13046,6 +16320,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 658 kcal, 53 g Kohlenhydrate, 30 g Eiweiß, 37 g Fett, 11 g Ballaststoffe"
   },
   {
@@ -13069,6 +16344,17 @@
       "Gemüse",
       "asiatisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Restless-Legs-Syndrom",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 406 kcal, 21 g Eiweiß, 19 g Fett, 38 g Kohlenhydrate, 7 g Ballaststoffe"
   },
   {
@@ -13089,6 +16375,15 @@
       "Kuchen",
       "vegan",
       "deutsch"
+    ],
+    "suitableFor": [
+      "Colitis ulcerosa",
+      "Divertikulose",
+      "Reizdarmsyndrom",
+      "Untergewicht",
+      "Zöliakie",
+      "Bronchitis",
+      "Eosinophile Ösophagitis"
     ],
     "nutrition": "circa 273 kcal, 24 g Kohlenhydrate, 19 g Fett, 3 g Eiweiß, 2 g Ballaststoffe"
   },
@@ -13113,6 +16408,17 @@
       "Getreide",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fibromyalgie",
+      "Rheuma",
+      "Rosazea",
+      "Verstopfung"
+    ],
     "nutrition": "circa 382 kcal, 11 g Eiweiß, 15 g Fett, 49 g Kohlenhydrate, 13 g Ballaststoffe"
   },
   {
@@ -13131,6 +16437,17 @@
       "gesund",
       "Getränke",
       "vegan"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Blasenentzündung",
+      "Morbus Bechterew",
+      "Gastritis",
+      "Hashimoto",
+      "Rheuma",
+      "Schuppenflechte",
+      "Sodbrennen",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 409 kcal, 15 g Eiweiß, 18 g Fett, 46 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -13155,6 +16472,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "Ohne Schokoladenstücken:<br>131 kcal, 8 g Fett, 13 g Kohlenhydrate, 3 g Eiweiß, 2 g Ballaststoffe, 1 BE<br><br>Mit Schokoladenstücken:<br>140 kcal, 8 g Fett, 13 g Kohlenhydrate, 3 g Eiweiß, 2 g Ballaststoffe, 1 BE"
   },
   {
@@ -13176,6 +16494,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "228 kcal, 7 g Fett, 32 g Kohlenhydrate, 8 g Eiweiß, 7 g Ballaststoffe, 2,6 BE"
   },
   {
@@ -13199,6 +16518,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "351 kcal, 18 g Fett, 22 g Kohlenhydrate, 24 g Eiweiß, 5 g Ballaststoffe, 2 BE"
   },
   {
@@ -13219,6 +16539,14 @@
       "italienisch",
       "Nudeln",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "COPD",
+      "Reizdarmsyndrom",
+      "Reizmagen",
+      "Untergewicht",
+      "Verstopfung",
+      "Zöliakie"
     ],
     "nutrition": "circa 793 kcal, 66 g Kohlenhydrate, 41 g Fett, 39 g Eiweiß, 6 g Ballaststoffe"
   },
@@ -13243,6 +16571,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 515 kcal, 41 g Kohlenhydrate, 30 g Fett, 20 g Eiweiß, 15 g Ballaststoffe, 3,4 BE"
   },
   {
@@ -13270,6 +16599,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "ca. 283 kcal, 14 g Fett, 24 g Kohlenhydrate, 16 g Eiweiß, 5 g Ballaststoffe"
   },
   {
@@ -13293,6 +16623,7 @@
       "international",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "376 kcal, 17 g Fett, 40 g Kohlenhydrate, 15 g Eiweiß, 9 g Ballaststoffe"
   },
   {
@@ -13304,6 +16635,7 @@
     "prepTime": "",
     "categories": [],
     "tags": [],
+    "suitableFor": [],
     "nutrition": ""
   },
   {
@@ -13324,6 +16656,18 @@
       "schnell",
       "gesund",
       "Salate"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 480 kcal, 16 g Eiweiß, 26 g Fett, 37 g Kohlenhydrate, 9 g Ballaststoffe"
   },
@@ -13350,6 +16694,7 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 438 kcal, 42 g Kohlenhydrate, 22 g Eiweiß, 20 g Fett, 12 g Ballaststoffe"
   },
   {
@@ -13371,6 +16716,7 @@
       "vegetarisch",
       "Getreide"
     ],
+    "suitableFor": [],
     "nutrition": "214 kcal, 9 g Fett, 26 g Kohlenhydrate, 7 g Eiweiß, 2 g Ballaststoffe, 2 BE"
   },
   {
@@ -13391,6 +16737,16 @@
       "gesund",
       "Pizza/Flammkuchen",
       "Hack"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Diabetes",
+      "Fettleber",
+      "Metabolisches Syndrom",
+      "Rosazea",
+      "Sodbrennen",
+      "Untergewicht",
+      "Wechseljahre"
     ],
     "nutrition": "474 kcal, 23 g Fett, 39 g Kohlenhydrate, 28 g Eiweiß, 6 g Ballaststoffe, 3 BE"
   },
@@ -13415,6 +16771,16 @@
       "Nudeln",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "COPD",
+      "Depression",
+      "Hämorrhoiden",
+      "Untergewicht",
+      "Verstopfung"
+    ],
     "nutrition": "circa 486 kcal, 22 g Eiweiß, 14 g Fett, 66 g Kohlenhydrate, 20 g Ballaststoffe"
   },
   {
@@ -13437,6 +16803,18 @@
       "vegetarisch",
       "Nudeln",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 450 kcal, 20 g Eiweiß, 13 g Fett, 63 g Kohlenhydrate, 18 g Ballaststoffe"
   },
@@ -13461,6 +16839,7 @@
       "Frühstück",
       "Abendbrot"
     ],
+    "suitableFor": [],
     "nutrition": "circa. 140 kcal, 6 g Eiweiß, 4 g Fett, 19 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -13483,6 +16862,17 @@
       "vegan",
       "vegetarisch",
       "Spinat"
+    ],
+    "suitableFor": [
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "Brustkrebs-Nachsorge",
+      "Fibromyalgie",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Untergewicht",
+      "Verstopfung"
     ],
     "nutrition": "circa 690 kcal, 19 g Eiweiß, 41 g Fett, 55 g Kohlenhydrate, 15 g Ballaststoffe"
   },
@@ -13513,6 +16903,7 @@
       "Frühstück",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "ohne Spiegelei: circa 335 kcal, 44 g Kohlenhydrate, 11 g Fett, 13 g Eiweiß, 12 g Ballaststoffe<br>mit Spiegelei: 520 kcal, 45 g Kohlenhydrate, 26 g Fett, 21 g Eiweiß, 12 g Ballaststoffe"
   },
   {
@@ -13536,6 +16927,7 @@
       "vegetarisch",
       "deutsch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 556 kcal, 56 g Kohlenhydrate, 25 g Fett, 24 g Eiweiß, 16 g Ballaststoffe"
   },
   {
@@ -13561,6 +16953,7 @@
       "vegetarisch",
       "Sandwiches"
     ],
+    "suitableFor": [],
     "nutrition": "330 kcal, 27 g Eiweiß, 10 g Fett, 30 g Kohlenhydrate, 5 g Ballaststoffe"
   },
   {
@@ -13582,6 +16975,13 @@
       "Pizza/Flammkuchen",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Hashimoto",
+      "Untergewicht",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "ca. 680 kcal, 22 g Eiweiß, 33 g Fett, 63 g Kohlenhydrate, 17 g Ballaststoffe"
   },
   {
@@ -13598,6 +16998,33 @@
     "tags": [
       "gesund",
       "Getränke"
+    ],
+    "suitableFor": [
+      "ADHS",
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis ulcerosa",
+      "COPD",
+      "Darmkrebs",
+      "Depression",
+      "Diabetes",
+      "Endometriose",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Fibromyalgie",
+      "Gicht",
+      "Herzschwäche",
+      "Metabolisches Syndrom",
+      "Morbus Crohn",
+      "Migräne",
+      "Sodbrennen",
+      "Zöliakie",
+      "Brustkrebs-Nachsorge",
+      "Darmkrebs-Nachsorge",
+      "Herpes"
     ],
     "nutrition": null
   },
@@ -13624,6 +17051,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "312 kcal, 24 g Fett, 13 g Kohlenhydrate, 12 g Eiweiß, 2 g Ballaststoffe"
   },
   {
@@ -13646,6 +17074,11 @@
       "vegan",
       "Getreide",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "circa 190 kcal, 7 g Eiweiß, 3 g Fett, 32 g Kohlenhydrate, 3 g Ballaststoffe"
   },
@@ -13670,6 +17103,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 640 kcal, 9 g Eiweiß, 54 g Fett, 20 g Kohlenhydrate,17 g Ballaststoffe"
   },
   {
@@ -13693,6 +17127,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 160 kcal, 13 g Kohlenhydrate, 9 g Fett, 7 g Protein, 3 g Ballaststoffe"
   },
   {
@@ -13718,6 +17153,7 @@
       "vegetarisch",
       "Sommergerichte"
     ],
+    "suitableFor": [],
     "nutrition": "362 kcal, 23 g Fett, 23 g Kohlenhydrate, 15 g Eiweiß, 4 g Ballaststoffe"
   },
   {
@@ -13740,6 +17176,19 @@
       "vegan",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Colitis indeterminata",
+      "Diabetes",
+      "Restless-Legs-Syndrom",
+      "Rheuma",
+      "Schuppenflechte",
+      "Verstopfung"
     ],
     "nutrition": "circa 350 kcal, 11 g Eiweiß, 19 g Fett, 23 g Kohlenhydrate, 19 g Ballaststoffe"
   },
@@ -13766,6 +17215,7 @@
       "deutsch",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "circa 570 kcal,50 g Kohlenhydrate, 32 g Fett, 15 g Eiweiß, 13 g Ballaststoffe"
   },
   {
@@ -13787,6 +17237,7 @@
       "Hähnchen",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "pro Hähnchen-Wrap: 436 kcal, 23 g Fett, 31 g Kohlenhydrate, 26 g Eiweiß, 8 g Ballaststoffe<br><br>pro vegetarischem Wrap mit Kichererbsen: 382 kcal, 23 g Fett, 34 g Kohlenhydrate, 9 g Eiweiß, 10 g Ballaststoffe<br><br>pro vegetarischem Wrap mit Fetakäse: 573 kcal, 41g Fett, 31 g Kohlenhydrate, 20 g Eiweiß, 8 g Ballaststoffe"
   },
   {
@@ -13807,6 +17258,19 @@
       "gesund",
       "international",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörungen",
+      "Fruktoseintoleranz",
+      "Gicht",
+      "Rheuma",
+      "Schuppenflechte",
+      "Wechseljahresbeschwerden"
     ],
     "nutrition": "420 kcal, 23 g Eiweiß, 18 g Fett, 38 g Kohlenhydrate, 6 g Ballaststoffe"
   },
@@ -13831,6 +17295,19 @@
       "Fingerfood",
       "vegetarisch"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Rheuma",
+      "Verstopfung",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 461 kcal, 23 g Eiweiß, 23 g Fett, 38 g Kohlenhydrate, 10 g Ballaststoffe"
   },
   {
@@ -13850,6 +17327,17 @@
       "Frühstück",
       "Getreide"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Gicht",
+      "Wechseljahresbeschwerden",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom"
+    ],
     "nutrition": "ca. 449 kcal, 31 g Eiweiß, 19 g Fett, 40 g Kohlenhydrate, 6 g Ballaststoffe"
   },
   {
@@ -13867,6 +17355,10 @@
       "gesund",
       "vegan"
     ],
+    "suitableFor": [
+      "Rheuma",
+      "Schuppenflechte"
+    ],
     "nutrition": null
   },
   {
@@ -13883,6 +17375,11 @@
     "tags": [
       "Backen",
       "Kuchen"
+    ],
+    "suitableFor": [
+      "Morbus Crohn",
+      "Reizmagen",
+      "Zöliakie"
     ],
     "nutrition": "ca. 198 kcal, 3 g Eiweiß, 9 g Fett, 26 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -13907,6 +17404,17 @@
       "vegetarisch",
       "Gemüse"
     ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden",
+      "Arthrose"
+    ],
     "nutrition": "circa 340 kcal, 20 g Eiweiß, 24 g Fett, 8 g Kohlenhydrate, 9 g Ballaststoffe"
   },
   {
@@ -13929,6 +17437,17 @@
       "Nudeln",
       "vegan",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Bluthochdruck",
+      "COPD",
+      "Fibromyalgie",
+      "Verstopfung",
+      "Wechseljahresbeschwerden",
+      "Restless-Legs-Syndrom"
     ],
     "nutrition": "circa 438 kcal, 13 g Fett, 58 g Kohlenhydrate, 19 g Eiweiß, 13 g Ballaststoffe"
   },
@@ -13955,6 +17474,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "417 kcal, 15 g Eiweiß, 34 g Fett, 11 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -13975,6 +17495,18 @@
       "gesund",
       "Nudeln",
       "Lachs"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Arthrose",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Metabolisches Syndrom",
+      "Untergewicht",
+      "Motilitätsstörung"
     ],
     "nutrition": "circa 694 kcal, 43 g Eiweiß, 31 g Fett, 61 g Kohlenhydrate, 7 g Ballaststoffe"
   },
@@ -13997,6 +17529,7 @@
       "gesund",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "566 kcal, 49 g Eiweiß, 36 g Fett, 11 g Kohlenhydrate, 4 g Ballaststoffe"
   },
   {
@@ -14020,6 +17553,7 @@
       "Fisch",
       "Lachs"
     ],
+    "suitableFor": [],
     "nutrition": "circa 440 kcal, 25 g Eiweiß, 33 g Fett, 11 g Kohlenhydrate, 2 g Ballaststoffe"
   },
   {
@@ -14042,6 +17576,20 @@
       "vegan",
       "Suppen/Eintöpfe",
       "vegetarisch"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Akne",
+      "Arthrose",
+      "Blasenentzündung",
+      "Bluthochdruck",
+      "Diabetes",
+      "Fettleber",
+      "Fettstoffwechselstörung",
+      "Rheuma",
+      "Schuppenflechte",
+      "Metabolisches Syndrom",
+      "PCO-Syndrom"
     ],
     "nutrition": "ca. 345 kcal, 9 g Eiweiß, 27 g Fett, 13 g Kohlenhydrate, 5 g Ballaststoffe"
   },
@@ -14066,6 +17614,17 @@
       "Gemüse",
       "Ostern"
     ],
+    "suitableFor": [
+      "ADHS",
+      "Adipositas",
+      "Bluthochdruck",
+      "COPD",
+      "Diabetes",
+      "Fettleber",
+      "Gicht",
+      "PCO-Syndrom",
+      "Wechseljahresbeschwerden"
+    ],
     "nutrition": "circa 180 kcal, 16 g Eiweiß, 11 g Fett, 4 g Kohlenhydrate, 1 g Ballaststoffe"
   },
   {
@@ -14089,6 +17648,7 @@
       "Hack",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "350 kcal, 30 g Eiweiß, 24 g Fett, 4 g Kohlenhydrate, 23 g Ballaststoffe"
   },
   {
@@ -14114,6 +17674,7 @@
       "Gemüse",
       "Möhren"
     ],
+    "suitableFor": [],
     "nutrition": "446 kcal, 18 g Eiweiß, 26 g Fett, 36 g Kohlenhydrate, 11 g Ballaststoffe"
   },
   {
@@ -14135,6 +17696,7 @@
       "Hack",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "333 kcal, 18 g Eiweiß, 28 g Fett, 3 g Kohlenhydrate, 1 g Ballaststoffe"
   },
   {
@@ -14153,6 +17715,18 @@
       "Gemüse",
       "Eier",
       "gesund"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Diabetes",
+      "Dünndarmfehlbesiedlung",
+      "Fettleber",
+      "Gastroparese",
+      "Gicht",
+      "Reizdarm",
+      "Reizmagen",
+      "Motilitätsstörung"
     ],
     "nutrition": "circa 236 kcal, 17 g Eiweiß, 17 g Fett, 4 g Kohlenhydrate, 1 g Ballaststoffe"
   },
@@ -14177,6 +17751,7 @@
       "Hack",
       "Gemüse"
     ],
+    "suitableFor": [],
     "nutrition": "294 kcal, 19 g Fett, 10 g Kohlenhydrate, 21 g Eiweiß, 4 g Ballaststoffe, 0,8 BE"
   },
   {
@@ -14199,6 +17774,20 @@
       "Abendbrot",
       "vegetarisch",
       "Gemüse"
+    ],
+    "suitableFor": [
+      "Adipositas",
+      "Bluthochdruck",
+      "Depression",
+      "Divertikulose",
+      "Gastroparese",
+      "Hämorrhoiden",
+      "Herzschwäche",
+      "Morbus Crohn",
+      "Nierensteine",
+      "Sodbrennen",
+      "Verstopfung",
+      "Nierengesunde Ernährung"
     ],
     "nutrition": "circa 260 kcal, 10 g Fett, 26 g Kohlenhydrate, 14 g Eiweiß, 8 g Ballaststoffe"
   },
@@ -14225,6 +17814,7 @@
       "vegan",
       "vegetarisch"
     ],
+    "suitableFor": [],
     "nutrition": "circa 330 kcal, 14 g Eiweiß, 13 g Fett, 35 g Kohlenhydrate, 15 g Ballaststoffe"
   },
   {
@@ -14248,6 +17838,7 @@
       "gesund",
       "Spinat"
     ],
+    "suitableFor": [],
     "nutrition": "310 kcal, 43 g Eiweiß, 14 g Fett, 3 g Kohlenhydrate, 3 g Ballaststoffe"
   },
   {
@@ -14269,6 +17860,7 @@
       "gesund",
       "mediterran"
     ],
+    "suitableFor": [],
     "nutrition": "437 kcal, 31 g Fett, 31 g Eiweiß, 8 g Kohlenhydrate, 4 g Ballaststoffe"
   }
 ]

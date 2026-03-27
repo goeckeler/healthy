@@ -1,18 +1,34 @@
 #!/usr/bin/env python3
 """
 Scraper for NDR Ernährungs-Docs recipes.
-Fetches all recipes from the overview page and extracts detailed information.
+
+Usage:
+  python scrape_recipes.py --sample   Download a small set of sample recipes
+  python scrape_recipes.py --all      Download all recipes from the overview page
 """
 
 import json
 import re
+import sys
 import time
 import urllib.request
-from urllib.parse import urljoin, urlparse
 from html.parser import HTMLParser
 
 BASE_URL = "https://www.ndr.de"
 RECIPES_LIST_URL = "https://www.ndr.de/ratgeber/kochen/rezepte/Rezepte-von-den-Ernaehrungs-Docs,edocsrezepte102.html"
+
+SAMPLE_URLS = [
+    "https://www.ndr.de/ratgeber/kochen/rezepte/zucchini-mandel-suppe,zucchinimandelsuppe-104.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/haferbratlinge-mit-moehre-und-paprika,haferbratlinge-100.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/vegetarische-bohnen-pizza-mit-spinat,bohnenpizza-102.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/kraeutersalz,kraeutersalz-102.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/zitronen-chili-oel,chilioel-100.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/quinoasalat-vegan-mit-edamame-und-avocado,quinoasalat-106.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesespiesse-mit-Kraeuterquark-oder-Hummus,rezept2780.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/quark-mit-frischen-kraeutern,kraeuterquark-106.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/fruchtige-paprika-tomatensuppe-mit-tofu,paprikatomatensuppe-102.html",
+    "https://www.ndr.de/ratgeber/kochen/rezepte/vegane-tempeh-frikadellen-mit-kartoffelsalat,tempehbratlinge-104.html",
+]
 
 class RecipeLinkExtractor(HTMLParser):
     def __init__(self):
@@ -126,10 +142,21 @@ def normalize_suitable(tag):
         return None
     capitalized = truncated[0].upper() + truncated[1:]
 
-    if capitalized == 'Colitis Ulcerosa':
+    # correct typos in categories
+    if capitalized == 'Colitis Ulcerosa' or capitalized == 'Coltis ulcerosa':
         return 'Colitis ulcerosa'
+    if capitalized == 'Dünndarm-Fehlbesiedlung':
+        return 'Dünndarmfehlbesiedlung'
     if capitalized == 'Kopfschmerzen':
         return 'Migräne'
+    if capitalized == 'Lymphozytärer Kolitis':
+        return 'Lymphozytäre Kolitis'
+    if capitalized == 'Magen-Verkleinerung':
+        return 'Magenverkleinerung'
+
+    # shortcut similar categories
+    if capitalized.startswith('Arthrose'):
+        return 'Arthrose'
     if capitalized.startswith('COPD'):
         return 'COPD'
     if capitalized.startswith('Fettwechelstörung'):
@@ -138,6 +165,19 @@ def normalize_suitable(tag):
         return 'Fruktoseintoleranz'
     if capitalized.startswith('Histamin'):
         return 'Histaminintoleranz'
+    if capitalized.startswith('Metabolisch'):
+        return 'Metabolisches Syndrom'
+    if capitalized.startswith('Nierengesund'):
+        return 'Nierengesunde Ernährung'
+    if capitalized.startswith('Nierenstein'):
+        return 'Nierensteine'
+    if capitalized.startswith('Potenzstörung'):
+        return 'Potenzstörung'
+    if capitalized.startswith('Zöl'):
+        return 'Zöliakie'
+
+    if 'Sklerose' in capitalized:
+        return 'Multiple Sklerose'
 
     return capitalized
 
@@ -225,6 +265,30 @@ def parse_recipe(html, url):
 
     return recipe
 
+def run_sample():
+    """Fetch a small hardcoded set of sample recipes."""
+    recipes = []
+    for url in SAMPLE_URLS:
+        print(f"Fetching: {url.split('/')[-1]}")
+        html = fetch_url(url)
+        if html:
+            recipe = parse_recipe(html, url)
+            if recipe:
+                recipes.append(recipe)
+                print(f"  OK: {recipe['title'][:50]}")
+            else:
+                print(f"  Could not parse recipe")
+        else:
+            print(f"  Failed to fetch")
+
+    recipes.sort(key=lambda x: x['title'].lower())
+
+    with open('recipes.json', 'w', encoding='utf-8') as f:
+        json.dump(recipes, f, ensure_ascii=False, indent=2)
+
+    print(f"\nSaved {len(recipes)} sample recipes to recipes.json")
+
+
 def main():
     print("Fetching recipe list...")
     list_html = fetch_url(RECIPES_LIST_URL)
@@ -301,4 +365,11 @@ def main():
     print(f"Saved minimal version to recipes_minimal.json")
 
 if __name__ == '__main__':
-    main()
+    if len(sys.argv) != 2 or sys.argv[1] not in ('--sample', '--all'):
+        print(__doc__.strip())
+        sys.exit(1)
+
+    if sys.argv[1] == '--sample':
+        run_sample()
+    else:
+        main()
