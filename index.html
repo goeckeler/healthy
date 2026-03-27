@@ -818,8 +818,8 @@
             // Global state
             let allRecipes = [];
             let filteredRecipes = [];
-            let activeTag = null;
-            let activeSuitableTag = null;
+            let activeTags = new Set();
+            let activeSuitableTags = new Set();
             let currentServings = {};
             let currentRecipeData = {};
 
@@ -979,52 +979,41 @@
 
             // Toggle suitableFor tag filter
             function toggleSuitableTag(tagName) {
-                activeSuitableTag =
-                    activeSuitableTag === tagName ? null : tagName;
+                if (activeSuitableTags.has(tagName)) {
+                    activeSuitableTags.delete(tagName);
+                } else {
+                    activeSuitableTags.add(tagName);
+                }
                 document.querySelectorAll(".tag-suitable").forEach((tag) => {
-                    tag.classList.toggle(
-                        "active",
-                        tag.dataset.suitable === activeSuitableTag,
-                    );
+                    tag.classList.toggle("active", activeSuitableTags.has(tag.dataset.suitable));
                 });
                 clearFiltersBtn.style.display =
-                    activeTag || activeSuitableTag ? "inline-flex" : "none";
+                    activeTags.size || activeSuitableTags.size ? "inline-flex" : "none";
                 filterRecipes();
             }
 
             // Toggle tag filter
             function toggleTag(tagName) {
-                if (activeTag === tagName) {
-                    activeTag = null;
+                if (activeTags.has(tagName)) {
+                    activeTags.delete(tagName);
                 } else {
-                    activeTag = tagName;
+                    activeTags.add(tagName);
                 }
-
-                // Update UI
                 document.querySelectorAll(".tag").forEach((tag) => {
-                    tag.classList.toggle(
-                        "active",
-                        tag.dataset.tag === activeTag,
-                    );
+                    tag.classList.toggle("active", activeTags.has(tag.dataset.tag));
                 });
-
                 clearFiltersBtn.style.display =
-                    activeTag || activeSuitableTag ? "inline-flex" : "none";
-
+                    activeTags.size || activeSuitableTags.size ? "inline-flex" : "none";
                 filterRecipes();
             }
 
             // Clear all filters
             function clearFilters() {
-                activeTag = null;
-                activeSuitableTag = null;
+                activeTags.clear();
+                activeSuitableTags.clear();
                 searchInput.value = "";
-                document.querySelectorAll(".tag").forEach((tag) => {
-                    tag.classList.remove("active");
-                });
-                document.querySelectorAll(".tag-suitable").forEach((tag) => {
-                    tag.classList.remove("active");
-                });
+                document.querySelectorAll(".tag").forEach((tag) => tag.classList.remove("active"));
+                document.querySelectorAll(".tag-suitable").forEach((tag) => tag.classList.remove("active"));
                 clearFiltersBtn.style.display = "none";
                 filterRecipes();
             }
@@ -1048,15 +1037,15 @@
 
                 filteredRecipes = allRecipes.filter((recipe) => {
                     // Tag filter
-                    if (activeTag) {
+                    if (activeTags.size > 0) {
                         const tags = recipe.tags || recipe.categories || [];
-                        if (!tags.includes(activeTag)) return false;
+                        if (![...activeTags].every((t) => tags.includes(t))) return false;
                     }
 
                     // SuitableFor filter
-                    if (activeSuitableTag) {
-                        if (!(recipe.suitableFor || []).includes(activeSuitableTag))
-                            return false;
+                    if (activeSuitableTags.size > 0) {
+                        const suitable = recipe.suitableFor || [];
+                        if (![...activeSuitableTags].every((t) => suitable.includes(t))) return false;
                     }
 
                     // Text search

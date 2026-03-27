@@ -263,6 +263,7 @@ def main():
                     'categories': [],
                     'nutrition': '',
                     'tags': [],
+                    'suitableFor': [],
                     'pdfUrl': recipe_info['url']
                 })
 
